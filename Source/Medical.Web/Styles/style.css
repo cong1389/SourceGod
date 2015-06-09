@@ -1,0 +1,216 @@
+﻿/**********************************************top_menu***************************************************************/
+
+span.icon-homeChurch, span.pull-homeChurch
+{
+    position: relative;
+    float: left;
+    background: url(/Images/iconMenuHome.png) no-repeat;
+    width: 25px;
+    height: 25px;
+    background-position: -20px -479px;
+    top :-4px;
+}
+.navbar
+{
+    padding: 15px;
+    -webkit-transition: background .8s ease-out,padding .8s ease-out;
+    -moz-transition: background .8s ease-out,padding .8s ease-out;
+    transition: background .8s ease-out,padding .8s ease-out;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* CLASS FOR REMOVING PADDING IN NAVBAR*/
+.navbar-pad-original
+{
+    padding: 0px;
+}
+.navbar-brand
+{
+    padding: 0px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus
+{
+    color: #000;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+.navbar-header
+{
+    padding: 0 30 0 30;
+}
+
+/**********************************************block_lecture***************************************************************/
+#block_lecture
+{
+    background: #22C567;
+    color: #fff;
+}
+
+/**********************************************block_translatedbook***************************************************************/
+
+#block_lecture h3, #block_translatedbook h3, #block_meditate h3
+{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#block_translatedbook .item
+{
+}
+.papers, .papers:before, .papers:after
+{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 0 30px rgba(0,0,0,0.1),1px 1px 3px rgba(0,0,0,0.2);
+}
+.papers
+{
+    position: relative;
+    width: 90%;
+    padding: 2em;
+    margin: 0px auto;
+    margin-top: 40px;
+    font-size: 12px;
+}
+.papers:before, .papers:after
+{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: rotateZ(2.5deg);
+    -o-transform: rotate(2.5deg);
+    transform: rotateZ(2.5deg);
+    z-index: -1;
+}
+.papers:after
+{
+    -webkit-transform: rotateZ(-2.5deg);
+    -o-transform: rotate(-2.5deg);
+    transform: rotateZ(-2.5deg);
+}
+.papers h1
+{
+    font-size: 1.8em;
+    font-weight: normal;
+    text-align: center;
+    padding: 0.2em 0;
+    margin: 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 2px solid #ddd;
+}
+.papers p
+{
+    text-align: left;
+    margin: 1.5em 0;
+}
+.papers img
+{
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+/**********************************************block_meditate***************************************************************/
+#block_meditate
+{
+    background: #22C567;
+    color: #fff;
+}
+/**********************************************breakumb***************************************************************/
+#breakumb .title
+{
+    background: #2dcc70;
+    color: #fff;
+    padding: 20px 0;
+}
+/**********************************************Page Category***************************************************************/
+
+#category ul.gallery li .desc
+{
+    color: #000;
+}
+
+/**********************************************block_hot***************************************************************/
+.ads .span6
+{
+    margin: 10px 4px 0px 0px;
+}
+
+.dropdown-submenu
+{
+    position: relative;
+}
+.dropdown-submenu > .dropdown-menu
+{
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+/*.dropdown-submenu:hover>.dropdown-menu{display:block;}*/
+.dropdown-submenu > a:after
+{
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #cccccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+.dropdown-submenu:hover > a:after
+{
+    border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left
+{
+    float: none;
+}
+.dropdown-submenu.pull-left > .dropdown-menu
+{
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+/*****************************************Pager********************************/
+
+.pageding
+{
+    padding-top: 20px;
+}
+.current
+{
+    border: 1px solid #777;
+    margin: 0px 1px;
+    padding: 5px 9px;
+    display: inline-block;
+    color: #F00;
+    position: relative;
+}
+.nocurrent
+{
+    border: 1px solid #777;
+    margin: 0px 1px;
+    padding: 5px 9px;
+    display: inline-block;
+}
+.nextprev
+{
+    border: 1px solid #777;
+    margin: 0px 1px;
+    padding: 5px 9px;
+    display: inline-block;
+}

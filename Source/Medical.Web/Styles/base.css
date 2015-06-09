@@ -1,0 +1,8 @@
+﻿/**************************************Default CSS********************************/
+@import url('/Styles/bootstrap.min.css');
+@import url('/Styles/bootstrap-responsive.min.css');
+@import url('/Styles/font-awesome.min.css');
+/**************************************Custom CSS********************************/
+@import url('/Styles/main.css');
+@import url('/Styles/sl-slide.css');
+@import url('/Styles/style.css');

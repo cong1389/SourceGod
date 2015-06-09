@@ -1,0 +1,212 @@
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\bin\Debug\Cb.DAL.dll
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\bin\Debug\Cb.DAL.pdb
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\obj\Debug\Cb.DAL.dll
+D:\DGC\Project\MediacallCenter\trunk\DALFactory\obj\Debug\Cb.DAL.pdb
+D:\DGC\FreeSoft\trunk\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\DGC\FreeSoft\trunk\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\DGC\FreeSoft\trunk\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\DGC\FreeSoft\trunk\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\DGC\FreeSoft\trunk\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DGC\FreeSoft\trunk\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DGC\FreeSoft\trunk\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\DGC\FreeSoft\trunk\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\DGC\FreeSoft\trunk\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\DGC\FreeSoft\trunk\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\DGC\FreeSoft\trunk\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\DAMBRI\trunk\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\DAMBRI\trunk\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\DAMBRI\trunk\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\DAMBRI\trunk\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\DAMBRI\trunk\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\trunk\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\trunk\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\DAMBRI\trunk\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\DAMBRI\trunk\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\DAMBRI\trunk\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\DAMBRI\trunk\DALFactory\obj\Debug\Cb.DALFactory.pdb
+C:\Users\User\Desktop\New folder (4)\DALFactory\bin\Debug\Cb.DALFactory.dll
+C:\Users\User\Desktop\New folder (4)\DALFactory\bin\Debug\Cb.DALFactory.pdb
+C:\Users\User\Desktop\New folder (4)\DALFactory\bin\Debug\Cb.IDAL.dll
+C:\Users\User\Desktop\New folder (4)\DALFactory\bin\Debug\Cb.DBUtility.dll
+C:\Users\User\Desktop\New folder (4)\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Desktop\New folder (4)\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Desktop\New folder (4)\DALFactory\bin\Debug\Cb.IDAL.pdb
+C:\Users\User\Desktop\New folder (4)\DALFactory\bin\Debug\Cb.DBUtility.pdb
+C:\Users\User\Desktop\New folder (4)\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (4)\DALFactory\obj\Debug\Cb.DALFactory.dll
+C:\Users\User\Desktop\New folder (4)\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\DAMBRI\Dambri3107\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\DAMBRI\Dambri3107\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\DAMBRI\Dambri3107\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\DAMBRI\Dambri3107\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\DAMBRI\Dambri3107\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\Dambri3107\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\Dambri3107\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\DAMBRI\Dambri3107\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\DAMBRI\Dambri3107\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\DAMBRI\Dambri3107\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\DAMBRI\Dambri3107\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\DAMBRI\dambri0108\Dambri3107\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\SkyDrive\Dambri\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\SkyDrive\Dambri\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\SkyDrive\Dambri\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\SkyDrive\Dambri\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\SkyDrive\Dambri\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\Dambri\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\Dambri\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\SkyDrive\Dambri\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\SkyDrive\Dambri\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Dambri\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\SkyDrive\Dambri\DALFactory\obj\Debug\Cb.DALFactory.pdb
+E:\ \2808\Dambri\DALFactory\bin\Debug\Cb.DALFactory.dll
+E:\ \2808\Dambri\DALFactory\bin\Debug\Cb.DALFactory.pdb
+E:\ \2808\Dambri\DALFactory\bin\Debug\Cb.IDAL.dll
+E:\ \2808\Dambri\DALFactory\bin\Debug\Cb.DBUtility.dll
+E:\ \2808\Dambri\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ \2808\Dambri\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ \2808\Dambri\DALFactory\bin\Debug\Cb.IDAL.pdb
+E:\ \2808\Dambri\DALFactory\bin\Debug\Cb.DBUtility.pdb
+E:\ \2808\Dambri\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+E:\ \2808\Dambri\DALFactory\obj\Debug\Cb.DALFactory.dll
+E:\ \2808\Dambri\DALFactory\obj\Debug\Cb.DALFactory.pdb
+H:\ \2808\Dambri\DALFactory\bin\Debug\Cb.DALFactory.dll
+H:\ \2808\Dambri\DALFactory\bin\Debug\Cb.DALFactory.pdb
+H:\ \2808\Dambri\DALFactory\bin\Debug\Cb.IDAL.dll
+H:\ \2808\Dambri\DALFactory\bin\Debug\Cb.DBUtility.dll
+H:\ \2808\Dambri\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\ \2808\Dambri\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\ \2808\Dambri\DALFactory\bin\Debug\Cb.IDAL.pdb
+H:\ \2808\Dambri\DALFactory\bin\Debug\Cb.DBUtility.pdb
+H:\ \2808\Dambri\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+H:\ \2808\Dambri\DALFactory\obj\Debug\Cb.DALFactory.dll
+H:\ \2808\Dambri\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\SkyDrive\3108\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\SkyDrive\3108\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\SkyDrive\3108\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\SkyDrive\3108\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\SkyDrive\3108\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\3108\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\3108\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\SkyDrive\3108\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\SkyDrive\3108\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\SkyDrive\3108\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\SkyDrive\3108\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\Dambri\3108\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\Dambri\3108\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\Dambri\3108\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\Dambri\3108\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\Dambri\3108\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Dambri\3108\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Dambri\3108\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\Dambri\3108\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\Dambri\3108\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\Dambri\3108\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\Dambri\3108\DALFactory\obj\Debug\Cb.DALFactory.pdb
+C:\Users\SUCCESS\Desktop\Source\DALFactory\bin\Debug\Cb.DALFactory.dll
+C:\Users\SUCCESS\Desktop\Source\DALFactory\bin\Debug\Cb.DALFactory.pdb
+C:\Users\SUCCESS\Desktop\Source\DALFactory\bin\Debug\Cb.IDAL.dll
+C:\Users\SUCCESS\Desktop\Source\DALFactory\bin\Debug\Cb.DBUtility.dll
+C:\Users\SUCCESS\Desktop\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\SUCCESS\Desktop\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\SUCCESS\Desktop\Source\DALFactory\bin\Debug\Cb.IDAL.pdb
+C:\Users\SUCCESS\Desktop\Source\DALFactory\bin\Debug\Cb.DBUtility.pdb
+C:\Users\SUCCESS\Desktop\Source\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+C:\Users\SUCCESS\Desktop\Source\DALFactory\obj\Debug\Cb.DALFactory.dll
+C:\Users\SUCCESS\Desktop\Source\DALFactory\obj\Debug\Cb.DALFactory.pdb
+E:\Working\Source\DALFactory\bin\Debug\Cb.DALFactory.dll
+E:\Working\Source\DALFactory\bin\Debug\Cb.DALFactory.pdb
+E:\Working\Source\DALFactory\bin\Debug\Cb.IDAL.dll
+E:\Working\Source\DALFactory\bin\Debug\Cb.DBUtility.dll
+E:\Working\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Working\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Working\Source\DALFactory\bin\Debug\Cb.IDAL.pdb
+E:\Working\Source\DALFactory\bin\Debug\Cb.DBUtility.pdb
+E:\Working\Source\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+E:\Working\Source\DALFactory\obj\Debug\Cb.DALFactory.dll
+E:\Working\Source\DALFactory\obj\Debug\Cb.DALFactory.pdb
+E:\Working\SourceNew\Source\DALFactory\bin\Debug\Cb.DALFactory.dll
+E:\Working\SourceNew\Source\DALFactory\bin\Debug\Cb.DALFactory.pdb
+E:\Working\SourceNew\Source\DALFactory\bin\Debug\Cb.IDAL.dll
+E:\Working\SourceNew\Source\DALFactory\bin\Debug\Cb.DBUtility.dll
+E:\Working\SourceNew\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Working\SourceNew\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Working\SourceNew\Source\DALFactory\bin\Debug\Cb.IDAL.pdb
+E:\Working\SourceNew\Source\DALFactory\bin\Debug\Cb.DBUtility.pdb
+E:\Working\SourceNew\Source\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+E:\Working\SourceNew\Source\DALFactory\obj\Debug\Cb.DALFactory.dll
+E:\Working\SourceNew\Source\DALFactory\obj\Debug\Cb.DALFactory.pdb
+H:\Working\Source18052014\Source\DALFactory\bin\Debug\Cb.DALFactory.dll
+H:\Working\Source18052014\Source\DALFactory\bin\Debug\Cb.DALFactory.pdb
+H:\Working\Source18052014\Source\DALFactory\bin\Debug\Cb.IDAL.dll
+H:\Working\Source18052014\Source\DALFactory\bin\Debug\Cb.DBUtility.dll
+H:\Working\Source18052014\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\Working\Source18052014\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\Working\Source18052014\Source\DALFactory\bin\Debug\Cb.IDAL.pdb
+H:\Working\Source18052014\Source\DALFactory\bin\Debug\Cb.DBUtility.pdb
+H:\Working\Source18052014\Source\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+H:\Working\Source18052014\Source\DALFactory\obj\Debug\Cb.DALFactory.dll
+H:\Working\Source18052014\Source\DALFactory\obj\Debug\Cb.DALFactory.pdb
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Cb.DALFactory.dll
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Cb.DALFactory.pdb
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Cb.IDAL.dll
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Cb.DBUtility.dll
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Cb.IDAL.pdb
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Cb.DBUtility.pdb
+G:\Working\20150125Source\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Working\20150125Source\Source\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+G:\Working\20150125Source\Source\DALFactory\obj\Debug\Cb.DALFactory.dll
+G:\Working\20150125Source\Source\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\SourceGod\Source\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\SourceGod\Source\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\SourceGod\Source\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\SourceGod\Source\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\SourceGod\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SourceGod\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SourceGod\Source\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\SourceGod\Source\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\SourceGod\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SourceGod\Source\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\SourceGod\Source\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\SourceGod\Source\DALFactory\obj\Debug\Cb.DALFactory.pdb
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Cb.DALFactory.dll
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Cb.DALFactory.pdb
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Cb.IDAL.dll
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Cb.DBUtility.dll
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Cb.IDAL.pdb
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Cb.DBUtility.pdb
+D:\Parttime\SourceGod\Source\DALFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Parttime\SourceGod\Source\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\Parttime\SourceGod\Source\DALFactory\obj\Debug\Cb.DALFactory.dll
+D:\Parttime\SourceGod\Source\DALFactory\obj\Debug\Cb.DALFactory.pdb

@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cb.Localization</name>
+    </assembly>
+    <members>
+        <member name="T:Cb.Localization.resources.labels">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.admin_user_not_exist">
+            <summary>
+              Looks up a localized string similar to Người dùng không tồn tại.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_addtocart_succes">
+            <summary>
+              Looks up a localized string similar to Thêm sản phẩm thành công.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_empty_name">
+            <summary>
+              Looks up a localized string similar to Vui lòng nhập tên (Tab tiếng việt)..
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_empty_name_english">
+            <summary>
+              Looks up a localized string similar to Vui lòng nhập tên (Tab tiếng Anh)..
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_login_empty_email">
+            <summary>
+              Looks up a localized string similar to Vui lòng nhập địa chỉ email.&lt;p&gt;&lt;/p&gt;.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_login_empty_pass">
+            <summary>
+              Looks up a localized string similar to Vui lòng nhập mật khẩu&lt;p&gt;&lt;/p&gt;.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_login_empty_username">
+            <summary>
+              Looks up a localized string similar to Vui lòng nhập tên đăng nhập&lt;p&gt;&lt;/p&gt;.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_login_error">
+            <summary>
+              Looks up a localized string similar to Tên đăng nhập hay mật khẩu không đúng &lt;p&gt;&lt;/p&gt;.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_login_invalid_email">
+            <summary>
+              Looks up a localized string similar to Địa chỉ email không hợp lệ.&lt;p&gt;&lt;/p&gt;.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_message_contact">
+            <summary>
+              Looks up a localized string similar to Bạn đã gửi mail liên hệ thành công.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_message_forgot_pass">
+            <summary>
+              Looks up a localized string similar to Chúng tôi đã gửi email chứa mật khẩu đến hộp thư của bạn.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_message_idea_center">
+            <summary>
+              Looks up a localized string similar to Bạn đã gửi IdeaCenter thành công.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_message_regist_success">
+            <summary>
+              Looks up a localized string similar to Bạn đã đăng ký thành công.&lt;br /&gt;Chúng tôi sẽ cập nhật thông tin của Bạn trong vòng 24 giờ..
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_need_login">
+            <summary>
+              Looks up a localized string similar to Bạn cần đăng nhập trước khi thanh toán.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_product_cmp_capacity">
+            <summary>
+              Looks up a localized string similar to Đến dung tích phải lớn hơn hoặc bằng từ dung tích.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_product_cmp_date">
+            <summary>
+              Looks up a localized string similar to Đến ngày phải lớn hơn hoặc bằng từ ngày.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_product_cmp_price">
+            <summary>
+              Looks up a localized string similar to Đến giá phải lớn hơn hoặc bằng từ giá.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.alert_product_cmp_weight">
+            <summary>
+              Looks up a localized string similar to Đến trọng lượng phải lớn hơn từ trọng lượng.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.btn_login">
+            <summary>
+              Looks up a localized string similar to Đăng nhập.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.btn_sendMail">
+            <summary>
+              Looks up a localized string similar to Gửi.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.btnReset">
+            <summary>
+              Looks up a localized string similar to Làm lại.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.btnSearch">
+            <summary>
+              Looks up a localized string similar to Tìm kiếm.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.btnUpdate">
+            <summary>
+              Looks up a localized string similar to Cập nhật.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enuBannerPosition_logo_bottom">
+            <summary>
+              Looks up a localized string similar to Logo dưới.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enuBannerPosition_logo_left">
+            <summary>
+              Looks up a localized string similar to Logo trái.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enuBannerPosition_main">
+            <summary>
+              Looks up a localized string similar to Trang chính.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enuCostId_dong">
+            <summary>
+              Looks up a localized string similar to VNĐ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enuCostId_luongSJC">
+            <summary>
+              Looks up a localized string similar to lượng.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enuCostId_tidong">
+            <summary>
+              Looks up a localized string similar to tỉ VNĐ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enuCostId_trieudong">
+            <summary>
+              Looks up a localized string similar to triệu.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enuCostId_usd">
+            <summary>
+              Looks up a localized string similar to USD.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.enulogoPosition_logo_left">
+            <summary>
+              Looks up a localized string similar to Banner.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.fm_name1">
+            <summary>
+              Looks up a localized string similar to Tên.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.Homepage">
+            <summary>
+              Looks up a localized string similar to Trang chủ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltr_SecurityCode">
+            <summary>
+              Looks up a localized string similar to Mã an toàn.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrAddress">
+            <summary>
+              Looks up a localized string similar to Địa chỉ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrChangedPass">
+            <summary>
+              Looks up a localized string similar to Đổi mật khẩu.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrCompanyName">
+            <summary>
+              Looks up a localized string similar to Tên công ty.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrfm_message">
+            <summary>
+              Looks up a localized string similar to Tin nhắn.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrHeaderAdminpage">
+            <summary>
+              Looks up a localized string similar to Trang quản trị.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrHeaderAgent">
+            <summary>
+              Looks up a localized string similar to Đại lý.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrHeaderHome">
+            <summary>
+              Looks up a localized string similar to Trang chủ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrHeaderLogin">
+            <summary>
+              Looks up a localized string similar to Đăng nhập.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrHeaderLogout">
+            <summary>
+              Looks up a localized string similar to Thoát.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrHeaderRegister">
+            <summary>
+              Looks up a localized string similar to Đăng ký.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrHeaderSearch">
+            <summary>
+              Looks up a localized string similar to Tìm kiếm.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrHeaderService">
+            <summary>
+              Looks up a localized string similar to Dịch vụ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrLangue">
+            <summary>
+              Looks up a localized string similar to Ngôn ngữ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrLienhe">
+            <summary>
+              Looks up a localized string similar to Liên hệ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrListServices">
+            <summary>
+              Looks up a localized string similar to Dịch vụ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrLogout">
+            <summary>
+              Looks up a localized string similar to Thoát .
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrNewsDetail">
+            <summary>
+              Looks up a localized string similar to Tin tức mới nhất.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrNewsHeaderHome">
+            <summary>
+              Looks up a localized string similar to Tin tức mới nhất.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.ltrPhone">
+            <summary>
+              Looks up a localized string similar to Điện thoại.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.statement_delete">
+            <summary>
+              Looks up a localized string similar to Xóa.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.statement_email">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.statement_fax">
+            <summary>
+              Looks up a localized string similar to Fax.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.statement_forgot_pass">
+            <summary>
+              Looks up a localized string similar to Quên mật khẩu.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.statement_from_date">
+            <summary>
+              Looks up a localized string similar to Từ ngày.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.statement_from_price">
+            <summary>
+              Looks up a localized string similar to Giá từ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.statement_have">
+            <summary>
+              Looks up a localized string similar to Có.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.statement_loginas">
+            <summary>
+              Looks up a localized string similar to Đăng nhập với vai trò.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.str_admin_unpublish">
+            <summary>
+              Looks up a localized string similar to Khóa lại.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strAdminAddNew">
+            <summary>
+              Looks up a localized string similar to Thêm mới.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strAdminPublish">
+            <summary>
+              Looks up a localized string similar to Kích hoạt.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strConfig">
+            <summary>
+              Looks up a localized string similar to Cấu hình.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strContact">
+            <summary>
+              Looks up a localized string similar to Liên hệ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strDelete">
+            <summary>
+              Looks up a localized string similar to Xóa.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strDetail">
+            <summary>
+              Looks up a localized string similar to Chi tiết.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strEdit">
+            <summary>
+              Looks up a localized string similar to Sửa.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strEditNewsCategory">
+            <summary>
+              Looks up a localized string similar to Chỉnh sửa danh mục cấp 1.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strEditProvider">
+            <summary>
+              Looks up a localized string similar to Chỉnh sửa nhà cung cấp.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strFind">
+            <summary>
+              Looks up a localized string similar to Tìm.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strHeaderCate">
+            <summary>
+              Looks up a localized string similar to Quản ly danh mục.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strHeaderCateCategory">
+            <summary>
+              Looks up a localized string similar to Quản lý danh mục cấp 1.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strHeaderCateCategory0">
+            <summary>
+              Looks up a localized string similar to Quản lý danh mục cấp 0.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strHeaderServices">
+            <summary>
+              Looks up a localized string similar to Quản lý dịch vụ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strIgnore">
+            <summary>
+              Looks up a localized string similar to Bỏ qua.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strIntro">
+            <summary>
+              Looks up a localized string similar to Giới thiệu.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strLogin">
+            <summary>
+              Looks up a localized string similar to Đăng nhập.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strMenu">
+            <summary>
+              Looks up a localized string similar to Trang chủ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strName">
+            <summary>
+              Looks up a localized string similar to Tên.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strOrdering">
+            <summary>
+              Looks up a localized string similar to Sắp xếp.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strSave">
+            <summary>
+              Looks up a localized string similar to Lưu.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strSearch">
+            <summary>
+              Looks up a localized string similar to Tìm kiếm.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strServicesCategory">
+            <summary>
+              Looks up a localized string similar to Danh mục dịch vụ.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strUpdate">
+            <summary>
+              Looks up a localized string similar to Cập nhật.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strUpdateDate">
+            <summary>
+              Looks up a localized string similar to Ngày cập nhật.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strVietName">
+            <summary>
+              Looks up a localized string similar to Tiếng Việt.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.strWeb">
+            <summary>
+              Looks up a localized string similar to Sơ đồ website.
+            </summary>
+        </member>
+        <member name="P:Cb.Localization.resources.labels.Telefon1">
+            <summary>
+              Looks up a localized string similar to Điện thoại.
+            </summary>
+        </member>
+        <member name="M:Cb.Localization.LocalizationUtility.AddHoverHtml(System.Web.UI.WebControls.HyperLink,System.String)">
+            <summary>
+            Adds the hover HTML.
+            </summary>
+            <param name="hyperlink">The hyperlink.</param>
+            <param name="html">The HTML.</param>
+        </member>
+        <member name="M:Cb.Localization.LocalizationUtility.AddImageAlternateText(System.Web.UI.WebControls.Image)">
+            <summary>
+            Adds the image alternate text.
+            </summary>
+            <param name="image">The image.</param>
+        </member>
+        <member name="M:Cb.Localization.LocalizationUtility.GetText(System.String)">
+            <summary>
+            Gets the text.
+            </summary>
+            <param name="name">The name.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Cb.Localization.LocalizationUtility.GetCriticalMessageText(System.String)">
+            <summary>
+            Gets the critical message text.
+            </summary>
+            <param name="message">The message.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Cb.Localization.LocalizationUtility.GetPaymentProviderErrorText(System.String)">
+            <summary>
+            Gets the payment provider error text.
+            </summary>
+            <param name="message">The message.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

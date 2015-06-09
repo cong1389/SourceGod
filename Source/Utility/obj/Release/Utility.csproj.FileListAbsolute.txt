@@ -1,0 +1,195 @@
+D:\DAMBRI\trunk\Utility\bin\Release\Cb.Utility.dll
+D:\DAMBRI\trunk\Utility\bin\Release\Cb.Utility.pdb
+D:\DAMBRI\trunk\Utility\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\trunk\Utility\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\DAMBRI\trunk\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\trunk\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\trunk\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\DAMBRI\trunk\Utility\obj\Release\Cb.Utility.dll
+D:\DAMBRI\trunk\Utility\obj\Release\Cb.Utility.pdb
+C:\Users\User\Desktop\New folder (4)\Utility\bin\Release\Cb.Utility.dll
+C:\Users\User\Desktop\New folder (4)\Utility\bin\Release\Cb.Utility.pdb
+C:\Users\User\Desktop\New folder (4)\Utility\bin\Release\Cb.DBUtility.dll
+C:\Users\User\Desktop\New folder (4)\Utility\bin\Release\CuteWebUI.AjaxUploader.dll
+C:\Users\User\Desktop\New folder (4)\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Desktop\New folder (4)\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Desktop\New folder (4)\Utility\obj\Release\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (4)\Utility\obj\Release\Cb.Utility.dll
+C:\Users\User\Desktop\New folder (4)\Utility\obj\Release\Cb.Utility.pdb
+D:\DAMBRI\Dambri3107\Utility\bin\Release\Cb.Utility.dll
+D:\DAMBRI\Dambri3107\Utility\bin\Release\Cb.Utility.pdb
+D:\DAMBRI\Dambri3107\Utility\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\Dambri3107\Utility\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\DAMBRI\Dambri3107\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\Dambri3107\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\Dambri3107\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\DAMBRI\Dambri3107\Utility\obj\Release\Cb.Utility.dll
+D:\DAMBRI\Dambri3107\Utility\obj\Release\Cb.Utility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Utility\bin\Release\Cb.Utility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Utility\bin\Release\Cb.Utility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Utility\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Utility\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\DAMBRI\dambri0108\Dambri3107\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\Utility\obj\Release\Cb.Utility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Utility\obj\Release\Cb.Utility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\bin\Release\Cb.Utility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\bin\Release\Cb.Utility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\obj\Release\Cb.Utility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\Utility\obj\Release\Cb.Utility.pdb
+D:\SkyDrive\Dambri\Utility\bin\Release\Cb.Utility.dll
+D:\SkyDrive\Dambri\Utility\bin\Release\Cb.Utility.pdb
+D:\SkyDrive\Dambri\Utility\bin\Release\Cb.DBUtility.dll
+D:\SkyDrive\Dambri\Utility\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\SkyDrive\Dambri\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\Dambri\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\Dambri\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Dambri\Utility\obj\Release\Cb.Utility.dll
+D:\SkyDrive\Dambri\Utility\obj\Release\Cb.Utility.pdb
+H:\ \2808\Dambri\Utility\bin\Release\Cb.Utility.dll
+H:\ \2808\Dambri\Utility\bin\Release\Cb.Utility.pdb
+H:\ \2808\Dambri\Utility\bin\Release\Cb.DBUtility.dll
+H:\ \2808\Dambri\Utility\bin\Release\CuteWebUI.AjaxUploader.dll
+H:\ \2808\Dambri\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\ \2808\Dambri\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\ \2808\Dambri\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+H:\ \2808\Dambri\Utility\obj\Release\Cb.Utility.dll
+H:\ \2808\Dambri\Utility\obj\Release\Cb.Utility.pdb
+D:\SkyDrive\3108\Utility\bin\Release\Cb.Utility.dll
+D:\SkyDrive\3108\Utility\bin\Release\Cb.Utility.pdb
+D:\SkyDrive\3108\Utility\bin\Release\Cb.DBUtility.dll
+D:\SkyDrive\3108\Utility\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\SkyDrive\3108\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\3108\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\3108\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\SkyDrive\3108\Utility\obj\Release\Cb.Utility.dll
+D:\SkyDrive\3108\Utility\obj\Release\Cb.Utility.pdb
+D:\VPPVinhHung\Source18092014\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Cb.Utility.dll
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Cb.Utility.pdb
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Cb.DBUtility.dll
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Cb.Localization.dll
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Cb.DBUtility.pdb
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Cb.Localization.pdb
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+D:\VPPVinhHung\Source18092014\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\VPPVinhHung\Source18092014\Utility\obj\Release\Cb.Utility.dll
+D:\VPPVinhHung\Source18092014\Utility\obj\Release\Cb.Utility.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Cb.Utility.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Cb.Utility.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Cb.DBUtility.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Cb.Localization.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Cb.DBUtility.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Cb.Localization.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\obj\Release\Cb.Utility.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\obj\Release\Cb.Utility.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\Utility\bin\Release\Microsoft.Practices.ObjectBuilder.xml
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Cb.Utility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Cb.Utility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Cb.DBUtility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Cb.Localization.dll
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Cb.DBUtility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Cb.Localization.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\obj\Release\Cb.Utility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\Utility\obj\Release\Cb.Utility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Cb.Utility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Cb.Utility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Cb.DBUtility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Cb.Localization.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Cb.DBUtility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Cb.Localization.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\obj\Release\Cb.Utility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\Utility\obj\Release\Cb.Utility.pdb
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.Utility.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.Utility.pdb
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.DBUtility.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.Localization.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.Localization.pdb
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\obj\Release\Cb.Utility.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\obj\Release\Cb.Utility.pdb
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.Utility.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.Utility.pdb
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.DBUtility.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.Localization.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Cb.Localization.pdb
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\obj\Release\Cb.Utility.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\Utility\obj\Release\Cb.Utility.pdb
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\Cb.Utility.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\Cb.Utility.pdb
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\Cb.DBUtility.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\Cb.Localization.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\Cb.Localization.pdb
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\obj\Release\Cb.Utility.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\Utility\obj\Release\Cb.Utility.pdb
+G:\Working\20150125Source\Source\Utility\bin\Release\Cb.Utility.dll
+G:\Working\20150125Source\Source\Utility\bin\Release\Cb.Utility.pdb
+G:\Working\20150125Source\Source\Utility\bin\Release\Cb.DBUtility.dll
+G:\Working\20150125Source\Source\Utility\bin\Release\Cb.Localization.dll
+G:\Working\20150125Source\Source\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Working\20150125Source\Source\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Working\20150125Source\Source\Utility\bin\Release\Cb.DBUtility.pdb
+G:\Working\20150125Source\Source\Utility\bin\Release\Cb.Localization.pdb
+G:\Working\20150125Source\Source\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Working\20150125Source\Source\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+G:\Working\20150125Source\Source\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+G:\Working\20150125Source\Source\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+G:\Working\20150125Source\Source\Utility\obj\Release\Cb.Utility.dll
+G:\Working\20150125Source\Source\Utility\obj\Release\Cb.Utility.pdb
+D:\SourceGod\Source\Utility\bin\Release\Cb.Utility.dll
+D:\SourceGod\Source\Utility\bin\Release\Cb.Utility.pdb
+D:\SourceGod\Source\Utility\bin\Release\Cb.DBUtility.dll
+D:\SourceGod\Source\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SourceGod\Source\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SourceGod\Source\Utility\bin\Release\Cb.DBUtility.pdb
+D:\SourceGod\Source\Utility\bin\Release\Cb.Localization.pdb
+D:\SourceGod\Source\Utility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SourceGod\Source\Utility\bin\Release\en-US\Cb.Localization.resources.dll
+D:\SourceGod\Source\Utility\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\SourceGod\Source\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+D:\SourceGod\Source\Utility\obj\Release\Cb.Utility.dll
+D:\SourceGod\Source\Utility\obj\Release\Cb.Utility.pdb

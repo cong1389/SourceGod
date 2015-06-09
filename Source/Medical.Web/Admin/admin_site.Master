@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin_site.master.cs"
+    Inherits="Cb.Web.Admin.admin_site" %>
+
+<%@ Register TagPrefix="dgc" TagName="header" Src="~/Admin/Controls/header.ascx" %>
+<%@ Register TagPrefix="dgc" TagName="menu" Src="~/Admin/Controls/menu.ascx" %>
+<%@ Register TagPrefix="dgc" TagName="footer" Src="~/Admin/Controls/footer.ascx" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0052)http://vieclamyduoc.camnangthuoc.vn/admin.user/list/ -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="text/javascript">
+        var domainUrl = "/admin";
+    </script>
+    <meta name="robots" content="index, follow" />
+    <meta name="keywords" content="DIGICOM Corp, digicom, DGC" />
+    <link href="/Admin/Style/global.css" rel="stylesheet" type="text/css" />
+    <title>QUAN TRI ADMIN</title>
+</head>
+<body style="background-image: none">
+    <form id="aspnetForm" runat="server">
+    <div id="wrapper">
+        <dgc:header ID="header" runat="server" />
+    </div>
+    <dgc:menu ID="menu" runat="server" />
+    <asp:ContentPlaceHolder ID="contentSite" runat="server">
+    </asp:ContentPlaceHolder>
+    <%--<dgc:footer ID="footer" runat="server" />--%>
+    </form>
+</body>
+</html>

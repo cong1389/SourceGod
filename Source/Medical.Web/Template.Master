@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Template.Master.cs" Inherits="Cb.Web.Template" %>
+
+<%@ Register TagPrefix="dgc" TagName="top_menu" Src="~/Controls/top_menu.ascx" %>
+<%@ Register TagPrefix="dgc" TagName="footer" Src="~/Controls/footer.ascx" %>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>WELLCOME TO DAMBRI</title>   
+    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/Images/TABA.jpg" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="/Styles/base.css" />
+    <!--Footer-->
+    <script type="text/javascript" src="/Scripts/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <script type="text/javascript" src="/Scripts/vendor/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.js"></script>
+    <script type="text/javascript" src="/Scripts/main.js"></script>
+      <!--Slider boostrap-->
+    <script type="text/javascript" src="/Scripts/jssor.js"></script>
+    <script type="text/javascript" src="/Scripts/jssor.slider.js"></script>
+   <%-- <!-- Slider -->
+    <script type="text/javascript" src="/Scripts/jquery.ba-cond.min.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.slitslider.js"></script>--%>
+    <!-- Custom js -->
+    <script type="text/javascript" src="/Scripts/script.js"></script>
+    <!--Jplayer-->
+    <link href="/Styles/SkinBlueMonday/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/Scripts/Jplayer/jquery.jplayer.min.js"></script>
+    <script type="text/javascript" src="/Scripts/Jplayer/jplayer.playlist.min.js"></script>
+    <!--Light Gallery-->
+    <link rel="stylesheet" type="text/css" href="Styles/lightGallery.css" media="all" />
+    <script type="text/javascript" src="/Scripts/lightGallery.js"></script>
+    <!--Response Video Youtube-->
+    <link rel="stylesheet" type="text/css" href="Styles/js-video.css" media="all" />
+</head>
+<body>
+    <form id="aspnetForm" runat="server">
+    <dgc:top_menu ID="top_menu1" runat="server" />
+    <asp:ContentPlaceHolder ID="childContent" runat="server" />
+    <asp:ContentPlaceHolder ID="mainContent" runat="server" />
+    <dgc:footer ID="footer" runat="server" />
+    </form>
+</body>
+</html>

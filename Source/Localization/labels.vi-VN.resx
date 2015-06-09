@@ -1,0 +1,690 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ltrAccessNumber" xml:space="preserve">
+    <value>Số lượt truy cập</value>
+  </data>
+  <data name="ltrAdminPage" xml:space="preserve">
+    <value>Trang quản trị</value>
+  </data>
+  <data name="ltrContact" xml:space="preserve">
+    <value>Liên hệ</value>
+  </data>
+  <data name="ltrFooterTelCompany" xml:space="preserve">
+    <value>Điện thoại</value>
+  </data>
+  <data name="ltrHomePage" xml:space="preserve">
+    <value>Trang chủ</value>
+  </data>
+  <data name="ltrLogin" xml:space="preserve">
+    <value>Đăng nhập</value>
+  </data>
+  <data name="ltrLogOut" xml:space="preserve">
+    <value>Thoát</value>
+  </data>
+  <data name="Project_value_tidong" xml:space="preserve">
+    <value>Tỉ đồng</value>
+  </data>
+  <data name="Project_value_trieudong" xml:space="preserve">
+    <value>Triệu đồng</value>
+  </data>
+  <data name="ltrTitleLanguage" xml:space="preserve">
+    <value>Ngôn ngữ</value>
+  </data>
+  <data name="ltrContactInfo" xml:space="preserve">
+    <value>Thông tin liên hệ</value>
+  </data>
+  <data name="ltrContent" xml:space="preserve">
+    <value>Nội dung liên hệ</value>
+  </data>
+  <data name="ltrEmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="ltrInputCheckSecurityCode" xml:space="preserve">
+    <value>Nhập vào 5 ký tự như hình bên</value>
+  </data>
+  <data name="ltrPhone" xml:space="preserve">
+    <value>Điện thoại</value>
+  </data>
+  <data name="ltrYourName" xml:space="preserve">
+    <value>Người liên hệ</value>
+  </data>
+  <data name="ltr_SecurityCode" xml:space="preserve">
+    <value>Mã an toàn</value>
+  </data>
+  <data name="btn_reset" xml:space="preserve">
+    <value>Làm lại</value>
+  </data>
+  <data name="btn_Send" xml:space="preserve">
+    <value>Gửi đi</value>
+  </data>
+  <data name="cus_Same_Security_Code" xml:space="preserve">
+    <value>Mã an toàn sai!</value>
+  </data>
+  <data name="regv_Email" xml:space="preserve">
+    <value>Địa chỉ email không hợp lệ!</value>
+  </data>
+  <data name="regv_txtPhone" xml:space="preserve">
+    <value>Điện thoại không hợp lệ!</value>
+  </data>
+  <data name="reqvc_txtEmail" xml:space="preserve">
+    <value>Vui lòng nhập email!</value>
+  </data>
+  <data name="reqvc_txtFullName" xml:space="preserve">
+    <value>Vui lòng nhập tên!</value>
+  </data>
+  <data name="req_Security_Code" xml:space="preserve">
+    <value>Vui lòng nhập mã an toàn!</value>
+  </data>
+  <data name="ltrLinkOther" xml:space="preserve">
+    <value>Liên kết khác</value>
+  </data>
+  <data name="ltrMember_TitleFunctions" xml:space="preserve">
+    <value>Chức năng</value>
+  </data>
+  <data name="ltrMember_TitleTel" xml:space="preserve">
+    <value>Điện thoại</value>
+  </data>
+  <data name="Homepage" xml:space="preserve">
+    <value>Trang chủ</value>
+  </data>
+  <data name="ltrSearch_Title" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Lùi lại</value>
+  </data>
+  <data name="Foward" xml:space="preserve">
+    <value>Tiến tới</value>
+  </data>
+  <data name="statement_back" xml:space="preserve">
+    <value>Trở về</value>
+  </data>
+  <data name="ltrFooterAddress" xml:space="preserve">
+    <value>Địa chỉ 1</value>
+  </data>
+  <data name="statement_confirmpassword" xml:space="preserve">
+    <value>Xác nhận mật khẩu</value>
+  </data>
+  <data name="statement_fullname" xml:space="preserve">
+    <value>Họ tên</value>
+  </data>
+  <data name="statement_location" xml:space="preserve">
+    <value>Tỉnh/thành</value>
+  </data>
+  <data name="statement_mobile" xml:space="preserve">
+    <value>Di động</value>
+  </data>
+  <data name="statement_note_pass" xml:space="preserve">
+    <value>Mật khẩu từ 8-50 kí tự</value>
+  </data>
+  <data name="statement_note_username" xml:space="preserve">
+    <value>Tên đăng nhập từ 6-50 kí tự</value>
+  </data>
+  <data name="statement_password" xml:space="preserve">
+    <value>Mật khẩu</value>
+  </data>
+  <data name="statement_pass_current" xml:space="preserve">
+    <value>Mật khẩu hiện tại</value>
+  </data>
+  <data name="statement_pass_new" xml:space="preserve">
+    <value>Mật khẩu mới</value>
+  </data>
+  <data name="statement_username" xml:space="preserve">
+    <value>Tên đăng nhập</value>
+  </data>
+  <data name="btn_checkUserName" xml:space="preserve">
+    <value>Kiểm tra tên đăng nhập</value>
+  </data>
+  <data name="statement_contactname" xml:space="preserve">
+    <value>Tên liên hệ</value>
+  </data>
+  <data name="ltr_msg_forced_infor" xml:space="preserve">
+    <value>Là thông tin bắt buộc nhập</value>
+  </data>
+  <data name="ltrContactPage" xml:space="preserve">
+    <value>Thông tin tài khoản</value>
+  </data>
+  <data name="alert_register_empty_confirmpass" xml:space="preserve">
+    <value>Vui lòng nhập mật khẩu xác nhận.Mật khẩu phải nhiều hơn 7 ký tự và nhỏ hơn 50 ký tự</value>
+  </data>
+  <data name="alert_register_empty_contact_name" xml:space="preserve">
+    <value>Vui lòng nhập tên liên hệ</value>
+  </data>
+  <data name="alert_register_empty_pass" xml:space="preserve">
+    <value>Vui lòng nhập mật khẩu.Mật khẩu phải nhiều hơn 7 ký tự và nhỏ hơn 50 ký tự</value>
+  </data>
+  <data name="alert_register_empty_username" xml:space="preserve">
+    <value>Vui lòng nhập tên đăng nhập.Tên đăng nhập phải nhiều hơn 5 ký tự và nhỏ hơn 50 ký tự</value>
+  </data>
+  <data name="alert_register_exist_email" xml:space="preserve">
+    <value>Email của bạn đã đăng ký</value>
+  </data>
+  <data name="alert_register_invalid_mail" xml:space="preserve">
+    <value>Địa chỉ email không hợp lệ.</value>
+  </data>
+  <data name="alert_register_invalid_mobile" xml:space="preserve">
+    <value>Di động không hợp lệ</value>
+  </data>
+  <data name="alert_register_invalid_pass" xml:space="preserve">
+    <value>Vui lòng kiểm tra lại mật khẩu.Cả 2 mật khẩu phải giống nhau</value>
+  </data>
+  <data name="alert_register_invalid_phone" xml:space="preserve">
+    <value>Điện thoại không hợp lệ.</value>
+  </data>
+  <data name="alert_register_invalid_username" xml:space="preserve">
+    <value>Tên đăng nhập không hợp lệ</value>
+  </data>
+  <data name="alert_register_valid_username" xml:space="preserve">
+    <value>Tên đăng nhập hợp lệ</value>
+  </data>
+  <data name="statement_pass_re" xml:space="preserve">
+    <value>Nhập lại mật khẩu mới</value>
+  </data>
+  <data name="ltrChangedPass" xml:space="preserve">
+    <value>Đổi mật khẩu</value>
+  </data>
+  <data name="alert_pass_cur_empty" xml:space="preserve">
+    <value>Vui lòng nhập mật khẩu hiện tại</value>
+  </data>
+  <data name="alert_pass_cur_invalid" xml:space="preserve">
+    <value>Mật khẩu hiện tại không đúng.</value>
+  </data>
+  <data name="alert_pass_new_empty" xml:space="preserve">
+    <value>Vui lòng nhập mật khẩu mới</value>
+  </data>
+  <data name="alert_pass_new_invalid" xml:space="preserve">
+    <value>Xác nhận mật khẩu mới không đúng.Vui lòng nhập lại</value>
+  </data>
+  <data name="alert_pass_new_short" xml:space="preserve">
+    <value>Mật khẩu phải nhiều hơn 7 ký tự và nhỏ hơn 50 ký tự</value>
+  </data>
+  <data name="alert_pass_re_empty" xml:space="preserve">
+    <value>Vui lòng nhập xác nhận mật khẩu mới</value>
+  </data>
+  <data name="ltrCompanyName" xml:space="preserve">
+    <value>Tên công ty</value>
+  </data>
+  <data name="ltrTitle" xml:space="preserve">
+    <value>Chủ đề</value>
+  </data>
+  <data name="ltrPanelPersonnalInfo" xml:space="preserve">
+    <value>Đăng nhập Admin</value>
+  </data>
+  <data name="ltrRememberPass" xml:space="preserve">
+    <value>Nhớ mật khẩu</value>
+  </data>
+  <data name="strApply" xml:space="preserve">
+    <value>Cập nhật</value>
+  </data>
+  <data name="strCancel" xml:space="preserve">
+    <value>Hủy</value>
+  </data>
+  <data name="strDelete" xml:space="preserve">
+    <value>Xóa</value>
+  </data>
+  <data name="strEdit" xml:space="preserve">
+    <value>Sửa</value>
+  </data>
+  <data name="strName" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="strPublish" xml:space="preserve">
+    <value>Kích hoạt</value>
+  </data>
+  <data name="strSave" xml:space="preserve">
+    <value>Lưu</value>
+  </data>
+  <data name="strSearch" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="strUnpublish" xml:space="preserve">
+    <value>Khóa lại</value>
+  </data>
+  <data name="strConfirmDeleteIitem" xml:space="preserve">
+    <value>Bạn thật sự muốn xóa mẫu tin đã chọn?</value>
+  </data>
+  <data name="strDeleteSuccess" xml:space="preserve">
+    <value>Xóa dữ liệu thành công</value>
+  </data>
+  <data name="strNoSelectedIitem" xml:space="preserve">
+    <value>Vui lòng chọn một mẫu tin!</value>
+  </data>
+  <data name="strSaveSuccess" xml:space="preserve">
+    <value>Lưu dữ liệu thành công</value>
+  </data>
+  <data name="strUnitCategory" xml:space="preserve">
+    <value>Nhóm đơn vị</value>
+  </data>
+  <data name="strPrice" xml:space="preserve">
+    <value>Giá</value>
+  </data>
+  <data name="strUpload" xml:space="preserve">
+    <value>Tải lên</value>
+  </data>
+  <data name="strView" xml:space="preserve">
+    <value>Xem</value>
+  </data>
+  <data name="strUnit" xml:space="preserve">
+    <value>Đơn vị</value>
+  </data>
+  <data name="strExtendProductCategory" xml:space="preserve">
+    <value>Nhóm danh mục sản phẩm</value>
+  </data>
+  <data name="strExtendProductType" xml:space="preserve">
+    <value>Loại danh mục sản phẩm</value>
+  </data>
+  <data name="mesConfirmDelete" xml:space="preserve">
+    <value>Bạn thật sự muốn xóa mẫu tin đã chọn?</value>
+  </data>
+  <data name="mesSelectItem" xml:space="preserve">
+    <value>Vui lòng chọn một mẫu tin!</value>
+  </data>
+  <data name="strEnglish_en" xml:space="preserve">
+    <value>Tiếng anh</value>
+  </data>
+  <data name="strExtProCate" xml:space="preserve">
+    <value>Chỉnh sửa nhóm danh mục sản phẩm</value>
+  </data>
+  <data name="strTitle" xml:space="preserve">
+    <value>Tiêu đề</value>
+  </data>
+  <data name="strTitle_en" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="strType" xml:space="preserve">
+    <value>Loại</value>
+  </data>
+  <data name="enuBannerPosition_center_main" xml:space="preserve">
+    <value>Nắm chính giữa trang main</value>
+  </data>
+  <data name="enuBannerPosition_footer_left" xml:space="preserve">
+    <value>Bên trái ở dưới</value>
+  </data>
+  <data name="enuBannerPosition_footer_right" xml:space="preserve">
+    <value>Bên phải ở dưới</value>
+  </data>
+  <data name="enuBannerPosition_main" xml:space="preserve">
+    <value>Banner chính</value>
+  </data>
+  <data name="strEditLogo" xml:space="preserve">
+    <value>Chỉnh sửa logo</value>
+  </data>
+  <data name="strHeaderMenu" xml:space="preserve">
+    <value>Quản lý Menu</value>
+  </data>
+  <data name="strPosition" xml:space="preserve">
+    <value>Vị trí</value>
+  </data>
+  <data name="enuBannerPosition_All_none" xml:space="preserve">
+    <value>--Chọn vị trí--</value>
+  </data>
+  <data name="strUpdating" xml:space="preserve">
+    <value>Đang cập nhật</value>
+  </data>
+  <data name="enuChat_All_none" xml:space="preserve">
+    <value>--Chọn --</value>
+  </data>
+  <data name="errmsg_nickchat" xml:space="preserve">
+    <value>Vui lòng nhập địa nick chat</value>
+  </data>
+  <data name="strErrNotKeywordSearch" xml:space="preserve">
+    <value>Vui lòng nhập từ khóa cần tìm!</value>
+  </data>
+  <data name="strConfig" xml:space="preserve">
+    <value>Cấu hình</value>
+  </data>
+  <data name="strFax" xml:space="preserve">
+    <value>Fax</value>
+  </data>
+  <data name="strEmail" xml:space="preserve">
+    <value>Email của bạn</value>
+  </data>
+  <data name="msgRegisEmailSuccess" xml:space="preserve">
+    <value>Đăng ký nhận thông tin thành công</value>
+  </data>
+  <data name="msgRegisEmailUnsuccess" xml:space="preserve">
+    <value>Đăng ký không thành công. Vui lòng thử lại sau!</value>
+  </data>
+  <data name="enuRoleUser_admin" xml:space="preserve">
+    <value>Nhà quản trị</value>
+  </data>
+  <data name="enuRoleUser_All_none" xml:space="preserve">
+    <value>--Chọn vai trò--</value>
+  </data>
+  <data name="enuRoleUser_mod" xml:space="preserve">
+    <value>Quản lý</value>
+  </data>
+  <data name="enuRoleUser_user" xml:space="preserve">
+    <value>Người dùng</value>
+  </data>
+  <data name="strRoleName" xml:space="preserve">
+    <value>Nhóm quyền</value>
+  </data>
+  <data name="abbOrderNumber" xml:space="preserve">
+    <value>STT</value>
+  </data>
+  <data name="msgEmailIsAlready" xml:space="preserve">
+    <value>Địa chỉ email này đã có.</value>
+  </data>
+  <data name="ltrRequiredFields" xml:space="preserve">
+    <value>* Các trường bắt buộc</value>
+  </data>
+  <data name="ltrSecurityCode" xml:space="preserve">
+    <value>Mã an toàn</value>
+  </data>
+  <data name="msgFillContent" xml:space="preserve">
+    <value>Vui lòng nhập nội dung!</value>
+  </data>
+  <data name="strForgotPassword" xml:space="preserve">
+    <value>Quên mật khẩu?</value>
+  </data>
+  <data name="strSend" xml:space="preserve">
+    <value>Gửi</value>
+  </data>
+  <data name="strStatementSendForgotPass" xml:space="preserve">
+    <value>Chúng tôi đã gửi mật khẩu mới đến email của bạn!</value>
+  </data>
+  <data name="strStatementSendForgotPassFail" xml:space="preserve">
+    <value>Không gửi mật khẩu đến email đươc</value>
+  </data>
+  <data name="errmsgSendmail" xml:space="preserve">
+    <value>Có lỗi. Vui lòng thử lại sau.</value>
+  </data>
+  <data name="strConfirmSendMail" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn gửi không?</value>
+  </data>
+  <data name="strSendEmailSuccessfully" xml:space="preserve">
+    <value>Đã gửi thành công</value>
+  </data>
+  <data name="strErrExistUsername" xml:space="preserve">
+    <value>Tên đăng nhập đã tồn tại</value>
+  </data>
+  <data name="strErrEmptyAddress" xml:space="preserve">
+    <value>Vui lòng nhập địa chỉ</value>
+  </data>
+  <data name="strErrEmptyLocation" xml:space="preserve">
+    <value>Vui lòng chọn tỉnh thành</value>
+  </data>
+  <data name="strErrEmptyPhone" xml:space="preserve">
+    <value>Vui lòng nhập số điện thoại</value>
+  </data>
+  <data name="strStatementLoginFail" xml:space="preserve">
+    <value>Đăng nhập thất bại,sai tên đăng nhập hoặc email</value>
+  </data>
+  <data name="strFile" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="strDescription" xml:space="preserve">
+    <value>Mô tả</value>
+  </data>
+  <data name="strFileSize" xml:space="preserve">
+    <value>Kích thước</value>
+  </data>
+  <data name="back_to_page_clause" xml:space="preserve">
+    <value>Trở lại trang</value>
+  </data>
+  <data name="next_clause" xml:space="preserve">
+    <value>Sau »</value>
+  </data>
+  <data name="next_to_page_clause" xml:space="preserve">
+    <value>Trang</value>
+  </data>
+  <data name="of_clause" xml:space="preserve">
+    <value>của</value>
+  </data>
+  <data name="page_clause" xml:space="preserve">
+    <value>Trang</value>
+  </data>
+  <data name="previous_clause" xml:space="preserve">
+    <value>« Trước</value>
+  </data>
+  <data name="show_result_clause" xml:space="preserve">
+    <value>Hiển thị từ</value>
+  </data>
+  <data name="alert_empty_email" xml:space="preserve">
+    <value>Vui lòng nhập địa chỉ email.</value>
+  </data>
+  <data name="msg_EnterContent" xml:space="preserve">
+    <value>Vui lòng nhập nội dung.</value>
+  </data>
+  <data name="msg_EnterTitle" xml:space="preserve">
+    <value>Vui lòng nhập tiêu đề.</value>
+  </data>
+  <data name="strCode" xml:space="preserve">
+    <value>Mã xác nhận</value>
+  </data>
+  <data name="strFeedbackEmail" xml:space="preserve">
+    <value>Email phản hồi</value>
+  </data>
+  <data name="strEditContent" xml:space="preserve">
+    <value>Chỉnh sửa nội dung</value>
+  </data>
+  <data name="strDayOfWeek" xml:space="preserve">
+    <value>Thứ</value>
+  </data>
+  <data name="strNewsDetail" xml:space="preserve">
+    <value>Chi tiết tin</value>
+  </data>
+  <data name="msgInvalidPhone" xml:space="preserve">
+    <value>Số điện thoại bạn nhập không đúng.</value>
+  </data>
+  <data name="msgContentUpTo500Chr" xml:space="preserve">
+    <value>Nội dung tối đa 500 ký tự.</value>
+  </data>
+  <data name="msgRegisterSuccessfully" xml:space="preserve">
+    <value>Đăng ký thành công.</value>
+  </data>
+  <data name="strPage" xml:space="preserve">
+    <value>Trang</value>
+  </data>
+  <data name="strEditBanner" xml:space="preserve">
+    <value>Chỉnh sửa banner</value>
+  </data>
+  <data name="strHeaderBanner" xml:space="preserve">
+    <value>Quản lý banner</value>
+  </data>
+  <data name="strHeaderPartners" xml:space="preserve">
+    <value>Quản lý đối tác</value>
+  </data>
+  <data name="ltrFooterAddress1" xml:space="preserve">
+    <value>Địa chỉ 2</value>
+  </data>
+  <data name="strEmailHome" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="strContactHome" xml:space="preserve">
+    <value>Liên hệ</value>
+  </data>
+  <data name="strUrl" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="lang_English" xml:space="preserve">
+    <value>Tiếng Anh</value>
+  </data>
+  <data name="lang_VietNamese" xml:space="preserve">
+    <value>Tiếng Việt</value>
+  </data>
+  <data name="strNews" xml:space="preserve">
+    <value>Tin tức</value>
+  </data>
+  <data name="ltrLangue" xml:space="preserve">
+    <value>Ngôn ngữ/Language</value>
+  </data>
+  <data name="ltrCode" xml:space="preserve">
+    <value>Vui lòng nhập mã xác nhận</value>
+  </data>
+  <data name="fm_name1" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="Telefon1" xml:space="preserve">
+    <value>Điện thoại</value>
+  </data>
+  <data name="ltrFullname" xml:space="preserve">
+    <value>Họ và tên:</value>
+  </data>
+  <data name="alert_empty_fullname" xml:space="preserve">
+    <value>Vui lòng nhập họ tên.</value>
+  </data>
+  <data name="ltrListCate" xml:space="preserve">
+    <value>Danh mục</value>
+  </data>
+  <data name="ltrContinue" xml:space="preserve">
+    <value>Tiếp tục</value>
+  </data>
+  <data name="ltrLogoutAdmin" xml:space="preserve">
+    <value>Thoát</value>
+  </data>
+  <data name="strManageUser" xml:space="preserve">
+    <value>Quản lý người dùng</value>
+  </data>
+  <data name="strSiteName" xml:space="preserve">
+    <value>Tên website</value>
+  </data>
+  <data name="ltrListNews" xml:space="preserve">
+    <value>Danh mục dịch vụ</value>
+  </data>
+  <data name="strEditServices" xml:space="preserve">
+    <value>Chỉnh sửa dịch vụ</value>
+  </data>
+  <data name="strImage" xml:space="preserve">
+    <value>Hình ảnh</value>
+  </data>
+  <data name="strImage1" xml:space="preserve">
+    <value>Hình ảnh</value>
+  </data>
+  <data name="ltrGallery" xml:space="preserve">
+    <value>Thư viện</value>
+  </data>
+  <data name="ltrService" xml:space="preserve">
+    <value>Dịch vụ</value>
+  </data>
+  <data name="ltrSlider" xml:space="preserve">
+    <value>Dambri khu du lịch</value>
+  </data>
+  <data name="strNewsPromo" xml:space="preserve">
+    <value>Tin khuyến mại</value>
+  </data>
+  <data name="strPostDate" xml:space="preserve">
+    <value>Ngày tạo</value>
+  </data>
+  <data name="strSelAItem" xml:space="preserve">
+    <value>--Vui lòng lựa chọn --</value>
+  </data>
+</root>

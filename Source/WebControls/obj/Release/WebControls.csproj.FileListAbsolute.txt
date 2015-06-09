@@ -1,0 +1,243 @@
+D:\DAMBRI\trunk\WebControls\bin\Release\Cb.WebControls.dll
+D:\DAMBRI\trunk\WebControls\bin\Release\Cb.WebControls.pdb
+D:\DAMBRI\trunk\WebControls\bin\Release\Cb.Localization.dll
+D:\DAMBRI\trunk\WebControls\bin\Release\Cb.Utility.dll
+D:\DAMBRI\trunk\WebControls\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\DAMBRI\trunk\WebControls\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\trunk\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\trunk\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\trunk\WebControls\bin\Release\Cb.Localization.pdb
+D:\DAMBRI\trunk\WebControls\bin\Release\Cb.Localization.xml
+D:\DAMBRI\trunk\WebControls\bin\Release\Cb.Utility.pdb
+D:\DAMBRI\trunk\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\DAMBRI\trunk\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\DAMBRI\trunk\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\DAMBRI\trunk\WebControls\obj\Release\Cb.WebControls.dll
+D:\DAMBRI\trunk\WebControls\obj\Release\Cb.WebControls.pdb
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Cb.WebControls.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Cb.WebControls.pdb
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Cb.Localization.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Cb.Utility.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\CuteWebUI.AjaxUploader.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Cb.DBUtility.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Cb.Localization.pdb
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Cb.Localization.xml
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\Cb.Utility.pdb
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (4)\WebControls\obj\Release\Cb.WebControls.dll
+C:\Users\User\Desktop\New folder (4)\WebControls\obj\Release\Cb.WebControls.pdb
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Cb.WebControls.dll
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Cb.WebControls.pdb
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Cb.Localization.dll
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Cb.Utility.dll
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Cb.Localization.pdb
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Cb.Localization.xml
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\Cb.Utility.pdb
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\DAMBRI\Dambri3107\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\DAMBRI\Dambri3107\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\DAMBRI\Dambri3107\WebControls\obj\Release\Cb.WebControls.dll
+D:\DAMBRI\Dambri3107\WebControls\obj\Release\Cb.WebControls.pdb
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Cb.WebControls.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Cb.WebControls.pdb
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Cb.Localization.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Cb.Utility.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Cb.Localization.pdb
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Cb.Localization.xml
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\Cb.Utility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\obj\Release\Cb.WebControls.dll
+D:\DAMBRI\dambri0108\Dambri3107\WebControls\obj\Release\Cb.WebControls.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Cb.WebControls.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Cb.WebControls.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Cb.Localization.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Cb.Utility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Cb.Localization.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Cb.Localization.xml
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\Cb.Utility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\obj\Release\Cb.WebControls.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\WebControls\obj\Release\Cb.WebControls.pdb
+D:\SkyDrive\Dambri\WebControls\bin\Release\Cb.WebControls.dll
+D:\SkyDrive\Dambri\WebControls\bin\Release\Cb.WebControls.pdb
+D:\SkyDrive\Dambri\WebControls\bin\Release\Cb.Localization.dll
+D:\SkyDrive\Dambri\WebControls\bin\Release\Cb.Utility.dll
+D:\SkyDrive\Dambri\WebControls\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\SkyDrive\Dambri\WebControls\bin\Release\Cb.DBUtility.dll
+D:\SkyDrive\Dambri\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\Dambri\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\Dambri\WebControls\bin\Release\Cb.Localization.pdb
+D:\SkyDrive\Dambri\WebControls\bin\Release\Cb.Localization.xml
+D:\SkyDrive\Dambri\WebControls\bin\Release\Cb.Utility.pdb
+D:\SkyDrive\Dambri\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\SkyDrive\Dambri\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\SkyDrive\Dambri\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Dambri\WebControls\obj\Release\Cb.WebControls.dll
+D:\SkyDrive\Dambri\WebControls\obj\Release\Cb.WebControls.pdb
+D:\SkyDrive\3108\WebControls\bin\Release\Cb.WebControls.dll
+D:\SkyDrive\3108\WebControls\bin\Release\Cb.WebControls.pdb
+D:\SkyDrive\3108\WebControls\bin\Release\Cb.Localization.dll
+D:\SkyDrive\3108\WebControls\bin\Release\Cb.Utility.dll
+D:\SkyDrive\3108\WebControls\bin\Release\CuteWebUI.AjaxUploader.dll
+D:\SkyDrive\3108\WebControls\bin\Release\Cb.DBUtility.dll
+D:\SkyDrive\3108\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\3108\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\3108\WebControls\bin\Release\Cb.Localization.pdb
+D:\SkyDrive\3108\WebControls\bin\Release\Cb.Localization.xml
+D:\SkyDrive\3108\WebControls\bin\Release\Cb.Utility.pdb
+D:\SkyDrive\3108\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\SkyDrive\3108\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\SkyDrive\3108\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\SkyDrive\3108\WebControls\obj\Release\Cb.WebControls.dll
+D:\SkyDrive\3108\WebControls\obj\Release\Cb.WebControls.pdb
+D:\VPPVinhHung\Source18092014\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Cb.WebControls.dll
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Cb.WebControls.pdb
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Cb.Localization.dll
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Cb.Utility.dll
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Cb.DBUtility.dll
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Cb.Localization.pdb
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Cb.Utility.pdb
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Cb.DBUtility.pdb
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\Microsoft.Practices.ObjectBuilder.xml
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\VPPVinhHung\Source18092014\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\VPPVinhHung\Source18092014\WebControls\obj\Release\Cb.WebControls.dll
+D:\VPPVinhHung\Source18092014\WebControls\obj\Release\Cb.WebControls.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Cb.WebControls.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Cb.WebControls.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Cb.Localization.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Cb.Utility.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Cb.DBUtility.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Cb.Localization.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Cb.Utility.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Cb.DBUtility.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\obj\Release\Cb.WebControls.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\obj\Release\Cb.WebControls.pdb
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\WebControls\bin\Release\Microsoft.Practices.ObjectBuilder.xml
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Cb.WebControls.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Cb.WebControls.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Cb.Localization.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Cb.Utility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Cb.DBUtility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Cb.Localization.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Cb.Utility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Cb.DBUtility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\obj\Release\Cb.WebControls.dll
+D:\Parttime\123MuaNhaDat\Source14102014\WebControls\obj\Release\Cb.WebControls.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Cb.WebControls.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Cb.WebControls.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Localization.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Utility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Cb.DBUtility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Localization.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Utility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Cb.DBUtility.pdb
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\obj\Release\Cb.WebControls.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\WebControls\obj\Release\Cb.WebControls.pdb
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.WebControls.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.WebControls.pdb
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Localization.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Utility.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.DBUtility.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Localization.pdb
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Utility.pdb
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\obj\Release\Cb.WebControls.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\obj\Release\Cb.WebControls.pdb
+D:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Localization.xml
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.WebControls.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.WebControls.pdb
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Localization.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Utility.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.DBUtility.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Localization.pdb
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Localization.xml
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Cb.Utility.pdb
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\obj\Release\Cb.WebControls.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\WebControls\obj\Release\Cb.WebControls.pdb
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Cb.WebControls.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Cb.WebControls.pdb
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Cb.Localization.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Cb.Utility.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Cb.DBUtility.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Cb.Localization.pdb
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Cb.Utility.pdb
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\obj\Release\Cb.WebControls.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\obj\Release\Cb.WebControls.pdb
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\WebControls\bin\Release\Cb.Localization.xml
+D:\SourceGod\Source\WebControls\bin\Release\Cb.WebControls.dll
+D:\SourceGod\Source\WebControls\bin\Release\Cb.WebControls.pdb
+D:\SourceGod\Source\WebControls\bin\Release\Cb.Localization.dll
+D:\SourceGod\Source\WebControls\bin\Release\Cb.Utility.dll
+D:\SourceGod\Source\WebControls\bin\Release\Cb.DBUtility.dll
+D:\SourceGod\Source\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SourceGod\Source\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SourceGod\Source\WebControls\bin\Release\Cb.Localization.pdb
+D:\SourceGod\Source\WebControls\bin\Release\Cb.Utility.pdb
+D:\SourceGod\Source\WebControls\bin\Release\Cb.DBUtility.pdb
+D:\SourceGod\Source\WebControls\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SourceGod\Source\WebControls\bin\Release\en-US\Cb.Localization.resources.dll
+D:\SourceGod\Source\WebControls\bin\Release\vi-VN\Cb.Localization.resources.dll
+D:\SourceGod\Source\WebControls\obj\Release\WebControls.csprojResolveAssemblyReference.cache
+D:\SourceGod\Source\WebControls\obj\Release\Cb.WebControls.dll
+D:\SourceGod\Source\WebControls\obj\Release\Cb.WebControls.pdb

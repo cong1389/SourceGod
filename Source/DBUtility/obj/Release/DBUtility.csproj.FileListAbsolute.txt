@@ -1,0 +1,80 @@
+D:\DAMBRI\trunk\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\trunk\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\trunk\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\trunk\DBUtility\obj\Release\Cb.DBUtility.dll
+C:\Users\User\Desktop\New folder (4)\DBUtility\bin\Release\Cb.DBUtility.dll
+C:\Users\User\Desktop\New folder (4)\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Desktop\New folder (4)\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Desktop\New folder (4)\DBUtility\obj\Release\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (4)\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\DAMBRI\Dambri3107\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\Dambri3107\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\Dambri3107\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\Dambri3107\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+D:\DAMBRI\Dambri3107\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\SkyDrive\Dambri\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\SkyDrive\Dambri\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\Dambri\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\Dambri\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\SkyDrive\Dambri\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+H:\ \2808\Dambri\DBUtility\bin\Release\Cb.DBUtility.dll
+H:\ \2808\Dambri\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\ \2808\Dambri\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\ \2808\Dambri\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+H:\ \2808\Dambri\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\SkyDrive\3108\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\SkyDrive\3108\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\3108\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\3108\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\VPPVinhHung\Source18092014\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\VPPVinhHung\Source18092014\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VPPVinhHung\Source18092014\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VPPVinhHung\Source18092014\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\DBUtility\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\DBUtility\bin\Release\Microsoft.Practices.ObjectBuilder.xml
+D:\Parttime\VPPVinhHung\VPPVinhHung22092014\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+D:\Parttime\123MuaNhaDat\Source14102014\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\123MuaNhaDat\Source14102014\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\123MuaNhaDat\Source14102014\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\123MuaNhaDat\Source14102014\123muanhadat\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\CanHo360\Source14102014\123muanhadat\DBUtility\obj\Release\Cb.DBUtility.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\DBUtility\bin\Release\Cb.DBUtility.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Parttime\CanHo360\Source14102014\123muanhadat\DBUtility\obj\Release\Cb.DBUtility.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\DBUtility\bin\Release\Cb.DBUtility.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\DBUtility\obj\Release\Cb.DBUtility.dll
+G:\Parttime\Thach hoa vien\Documents\Html\ThachHoaVien\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+G:\Working\20150125Source\Source\DBUtility\bin\Release\Cb.DBUtility.dll
+G:\Working\20150125Source\Source\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Working\20150125Source\Source\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Working\20150125Source\Source\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+G:\Working\20150125Source\Source\DBUtility\obj\Release\Cb.DBUtility.dll
+D:\SourceGod\Source\DBUtility\bin\Release\Cb.DBUtility.dll
+D:\SourceGod\Source\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SourceGod\Source\DBUtility\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SourceGod\Source\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+D:\SourceGod\Source\DBUtility\obj\Release\Cb.DBUtility.dll

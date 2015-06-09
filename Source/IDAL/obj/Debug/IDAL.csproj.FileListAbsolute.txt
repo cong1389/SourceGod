@@ -1,0 +1,223 @@
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\bin\Debug\Cb.IDAL.dll
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\bin\Debug\Cb.Model.dll
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\bin\Debug\Cb.Model.pdb
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\obj\Debug\Cb.IDAL.dll
+D:\projects\Dorris\MedicalCenter\trunk\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\DGC\Project\MediacallCenter\trunk\IDAL\bin\Debug\Cb.IDAL.dll
+D:\DGC\Project\MediacallCenter\trunk\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\DGC\Project\MediacallCenter\trunk\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\DGC\Project\MediacallCenter\trunk\IDAL\bin\Debug\Cb.Model.dll
+D:\DGC\Project\MediacallCenter\trunk\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DGC\Project\MediacallCenter\trunk\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DGC\Project\MediacallCenter\trunk\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\DGC\Project\MediacallCenter\trunk\IDAL\bin\Debug\Cb.Model.pdb
+D:\DGC\Project\MediacallCenter\trunk\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\DGC\Project\MediacallCenter\trunk\IDAL\obj\Debug\Cb.IDAL.dll
+D:\DGC\Project\MediacallCenter\trunk\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\DGC\FreeSoft\trunk\IDAL\bin\Debug\Cb.IDAL.dll
+D:\DGC\FreeSoft\trunk\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\DGC\FreeSoft\trunk\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\DGC\FreeSoft\trunk\IDAL\bin\Debug\Cb.Model.dll
+D:\DGC\FreeSoft\trunk\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DGC\FreeSoft\trunk\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DGC\FreeSoft\trunk\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\DGC\FreeSoft\trunk\IDAL\bin\Debug\Cb.Model.pdb
+D:\DGC\FreeSoft\trunk\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\DGC\FreeSoft\trunk\IDAL\obj\Debug\Cb.IDAL.dll
+D:\DGC\FreeSoft\trunk\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\DAMBRI\trunk\IDAL\bin\Debug\Cb.IDAL.dll
+D:\DAMBRI\trunk\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\DAMBRI\trunk\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\DAMBRI\trunk\IDAL\bin\Debug\Cb.Model.dll
+D:\DAMBRI\trunk\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\trunk\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\trunk\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\DAMBRI\trunk\IDAL\bin\Debug\Cb.Model.pdb
+D:\DAMBRI\trunk\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\DAMBRI\trunk\IDAL\obj\Debug\Cb.IDAL.dll
+D:\DAMBRI\trunk\IDAL\obj\Debug\Cb.IDAL.pdb
+C:\Users\User\Desktop\New folder (4)\IDAL\bin\Debug\Cb.IDAL.dll
+C:\Users\User\Desktop\New folder (4)\IDAL\bin\Debug\Cb.IDAL.pdb
+C:\Users\User\Desktop\New folder (4)\IDAL\bin\Debug\Cb.DBUtility.dll
+C:\Users\User\Desktop\New folder (4)\IDAL\bin\Debug\Cb.Model.dll
+C:\Users\User\Desktop\New folder (4)\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Desktop\New folder (4)\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Desktop\New folder (4)\IDAL\bin\Debug\Cb.DBUtility.pdb
+C:\Users\User\Desktop\New folder (4)\IDAL\bin\Debug\Cb.Model.pdb
+C:\Users\User\Desktop\New folder (4)\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (4)\IDAL\obj\Debug\Cb.IDAL.dll
+C:\Users\User\Desktop\New folder (4)\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\DAMBRI\Dambri3107\IDAL\bin\Debug\Cb.IDAL.dll
+D:\DAMBRI\Dambri3107\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\DAMBRI\Dambri3107\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\DAMBRI\Dambri3107\IDAL\bin\Debug\Cb.Model.dll
+D:\DAMBRI\Dambri3107\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\Dambri3107\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\Dambri3107\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\DAMBRI\Dambri3107\IDAL\bin\Debug\Cb.Model.pdb
+D:\DAMBRI\Dambri3107\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\DAMBRI\Dambri3107\IDAL\obj\Debug\Cb.IDAL.dll
+D:\DAMBRI\Dambri3107\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\bin\Debug\Cb.IDAL.dll
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\bin\Debug\Cb.Model.dll
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\bin\Debug\Cb.Model.pdb
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\obj\Debug\Cb.IDAL.dll
+D:\DAMBRI\dambri0108\Dambri3107\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\bin\Debug\Cb.IDAL.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\bin\Debug\Cb.Model.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\bin\Debug\Cb.Model.pdb
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\obj\Debug\Cb.IDAL.dll
+D:\DAMBRI\dambri0108\Dambri3107\Dambri3107\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\SkyDrive\Dambri\IDAL\bin\Debug\Cb.IDAL.dll
+D:\SkyDrive\Dambri\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\SkyDrive\Dambri\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\SkyDrive\Dambri\IDAL\bin\Debug\Cb.Model.dll
+D:\SkyDrive\Dambri\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\Dambri\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\Dambri\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\SkyDrive\Dambri\IDAL\bin\Debug\Cb.Model.pdb
+D:\SkyDrive\Dambri\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Dambri\IDAL\obj\Debug\Cb.IDAL.dll
+D:\SkyDrive\Dambri\IDAL\obj\Debug\Cb.IDAL.pdb
+E:\ \2808\Dambri\IDAL\bin\Debug\Cb.IDAL.dll
+E:\ \2808\Dambri\IDAL\bin\Debug\Cb.IDAL.pdb
+E:\ \2808\Dambri\IDAL\bin\Debug\Cb.DBUtility.dll
+E:\ \2808\Dambri\IDAL\bin\Debug\Cb.Model.dll
+E:\ \2808\Dambri\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ \2808\Dambri\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ \2808\Dambri\IDAL\bin\Debug\Cb.DBUtility.pdb
+E:\ \2808\Dambri\IDAL\bin\Debug\Cb.Model.pdb
+E:\ \2808\Dambri\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\ \2808\Dambri\IDAL\obj\Debug\Cb.IDAL.dll
+E:\ \2808\Dambri\IDAL\obj\Debug\Cb.IDAL.pdb
+H:\ \2808\Dambri\IDAL\bin\Debug\Cb.IDAL.dll
+H:\ \2808\Dambri\IDAL\bin\Debug\Cb.IDAL.pdb
+H:\ \2808\Dambri\IDAL\bin\Debug\Cb.DBUtility.dll
+H:\ \2808\Dambri\IDAL\bin\Debug\Cb.Model.dll
+H:\ \2808\Dambri\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\ \2808\Dambri\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\ \2808\Dambri\IDAL\bin\Debug\Cb.DBUtility.pdb
+H:\ \2808\Dambri\IDAL\bin\Debug\Cb.Model.pdb
+H:\ \2808\Dambri\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+H:\ \2808\Dambri\IDAL\obj\Debug\Cb.IDAL.dll
+H:\ \2808\Dambri\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\SkyDrive\3108\IDAL\bin\Debug\Cb.IDAL.dll
+D:\SkyDrive\3108\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\SkyDrive\3108\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\SkyDrive\3108\IDAL\bin\Debug\Cb.Model.dll
+D:\SkyDrive\3108\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SkyDrive\3108\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SkyDrive\3108\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\SkyDrive\3108\IDAL\bin\Debug\Cb.Model.pdb
+D:\SkyDrive\3108\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\SkyDrive\3108\IDAL\obj\Debug\Cb.IDAL.dll
+D:\SkyDrive\3108\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\Dambri\3108\IDAL\bin\Debug\Cb.IDAL.dll
+D:\Dambri\3108\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\Dambri\3108\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\Dambri\3108\IDAL\bin\Debug\Cb.Model.dll
+D:\Dambri\3108\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Dambri\3108\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Dambri\3108\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\Dambri\3108\IDAL\bin\Debug\Cb.Model.pdb
+D:\Dambri\3108\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\Dambri\3108\IDAL\obj\Debug\Cb.IDAL.dll
+D:\Dambri\3108\IDAL\obj\Debug\Cb.IDAL.pdb
+C:\Users\SUCCESS\Desktop\Source\IDAL\bin\Debug\Cb.IDAL.dll
+C:\Users\SUCCESS\Desktop\Source\IDAL\bin\Debug\Cb.IDAL.pdb
+C:\Users\SUCCESS\Desktop\Source\IDAL\bin\Debug\Cb.DBUtility.dll
+C:\Users\SUCCESS\Desktop\Source\IDAL\bin\Debug\Cb.Model.dll
+C:\Users\SUCCESS\Desktop\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\SUCCESS\Desktop\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\SUCCESS\Desktop\Source\IDAL\bin\Debug\Cb.DBUtility.pdb
+C:\Users\SUCCESS\Desktop\Source\IDAL\bin\Debug\Cb.Model.pdb
+C:\Users\SUCCESS\Desktop\Source\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\SUCCESS\Desktop\Source\IDAL\obj\Debug\Cb.IDAL.dll
+C:\Users\SUCCESS\Desktop\Source\IDAL\obj\Debug\Cb.IDAL.pdb
+E:\Working\Source\IDAL\bin\Debug\Cb.IDAL.dll
+E:\Working\Source\IDAL\bin\Debug\Cb.IDAL.pdb
+E:\Working\Source\IDAL\bin\Debug\Cb.DBUtility.dll
+E:\Working\Source\IDAL\bin\Debug\Cb.Model.dll
+E:\Working\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Working\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Working\Source\IDAL\bin\Debug\Cb.DBUtility.pdb
+E:\Working\Source\IDAL\bin\Debug\Cb.Model.pdb
+E:\Working\Source\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\Working\Source\IDAL\obj\Debug\Cb.IDAL.dll
+E:\Working\Source\IDAL\obj\Debug\Cb.IDAL.pdb
+E:\Working\SourceNew\Source\IDAL\bin\Debug\Cb.IDAL.dll
+E:\Working\SourceNew\Source\IDAL\bin\Debug\Cb.IDAL.pdb
+E:\Working\SourceNew\Source\IDAL\bin\Debug\Cb.DBUtility.dll
+E:\Working\SourceNew\Source\IDAL\bin\Debug\Cb.Model.dll
+E:\Working\SourceNew\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Working\SourceNew\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Working\SourceNew\Source\IDAL\bin\Debug\Cb.DBUtility.pdb
+E:\Working\SourceNew\Source\IDAL\bin\Debug\Cb.Model.pdb
+E:\Working\SourceNew\Source\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\Working\SourceNew\Source\IDAL\obj\Debug\Cb.IDAL.dll
+E:\Working\SourceNew\Source\IDAL\obj\Debug\Cb.IDAL.pdb
+H:\Working\Source18052014\Source\IDAL\bin\Debug\Cb.IDAL.dll
+H:\Working\Source18052014\Source\IDAL\bin\Debug\Cb.IDAL.pdb
+H:\Working\Source18052014\Source\IDAL\bin\Debug\Cb.DBUtility.dll
+H:\Working\Source18052014\Source\IDAL\bin\Debug\Cb.Model.dll
+H:\Working\Source18052014\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\Working\Source18052014\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\Working\Source18052014\Source\IDAL\bin\Debug\Cb.DBUtility.pdb
+H:\Working\Source18052014\Source\IDAL\bin\Debug\Cb.Model.pdb
+H:\Working\Source18052014\Source\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+H:\Working\Source18052014\Source\IDAL\obj\Debug\Cb.IDAL.dll
+H:\Working\Source18052014\Source\IDAL\obj\Debug\Cb.IDAL.pdb
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Cb.IDAL.dll
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Cb.IDAL.pdb
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Cb.DBUtility.dll
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Cb.Model.dll
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Cb.DBUtility.pdb
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Cb.Model.pdb
+G:\Working\20150125Source\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Working\20150125Source\Source\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+G:\Working\20150125Source\Source\IDAL\obj\Debug\Cb.IDAL.dll
+G:\Working\20150125Source\Source\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\SourceGod\Source\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\SourceGod\Source\IDAL\bin\Debug\Cb.IDAL.dll
+D:\SourceGod\Source\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\SourceGod\Source\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\SourceGod\Source\IDAL\bin\Debug\Cb.Model.dll
+D:\SourceGod\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SourceGod\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SourceGod\Source\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\SourceGod\Source\IDAL\bin\Debug\Cb.Model.pdb
+D:\SourceGod\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SourceGod\Source\IDAL\obj\Debug\Cb.IDAL.dll
+D:\SourceGod\Source\IDAL\obj\Debug\Cb.IDAL.pdb
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Cb.IDAL.dll
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Cb.IDAL.pdb
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Cb.DBUtility.dll
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Cb.Model.dll
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Cb.DBUtility.pdb
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Cb.Model.pdb
+D:\Parttime\SourceGod\Source\IDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Parttime\SourceGod\Source\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\Parttime\SourceGod\Source\IDAL\obj\Debug\Cb.IDAL.dll
+D:\Parttime\SourceGod\Source\IDAL\obj\Debug\Cb.IDAL.pdb
