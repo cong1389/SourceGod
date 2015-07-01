@@ -11,5 +11,23 @@ namespace Cb.Web.Admin.Controls {
     
     
     public partial class menu {
+        
+        /// <summary>
+        /// ltrUserName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Literal ltrUserName;
+        
+        /// <summary>
+        /// hypLogOut control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor hypLogOut;
     }
 }

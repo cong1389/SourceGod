@@ -93,15 +93,19 @@ namespace Cb.Web.Controls
             if (e.Item.ItemType == ListItemType.Item || e.Item.ItemType == ListItemType.AlternatingItem)
             {
                 Medical_Product data = e.Item.DataItem as Medical_Product;
+                
                 HtmlAnchor hypImg = e.Item.FindControl("hypImg") as HtmlAnchor;
                 //hypImg.HRef = LinkHelper.GetLink(data.NameUrlDesc, LangId, data.ProductDesc.TitleUrl);
+                
+                HtmlImage img = e.Item.FindControl("img") as HtmlImage;
+                img.Src = WebUtils.GetUrlImage(ConfigurationManager.AppSettings["ProductUpload"], data.Image);
+
                 Literal ltrTitle = e.Item.FindControl("ltrTitle") as Literal;
                 ltrTitle.Text = data.ProductDesc.Title;
                 Literal ltrBrief = e.Item.FindControl("ltrBrief") as Literal;
-                hypImg.Title = ltrBrief.Text = data.ProductDesc.Brief;
+                hypImg.Title = ltrBrief.Text = img.Alt = img.Attributes["title"] = data.ProductDesc.Title;
 
-                HtmlImage img = e.Item.FindControl("img") as HtmlImage;
-                img.Src = WebUtils.GetUrlImage(ConfigurationManager.AppSettings["ProductUpload"], data.Image);
+               
 
                 LinkButton lbnHeader1 = e.Item.FindControl("lbnHeader1") as LinkButton;
                 lbnHeader1.CommandArgument = data.Area;

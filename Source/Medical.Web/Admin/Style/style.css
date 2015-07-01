@@ -46,3 +46,26 @@
     width: 60% !important;
     float: left;
 }
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited
+{
+    color: #000;
+}
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited
+{
+    color: #4BD305;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default
+{
+    background-color: #fff;
+    border: #fff;
+}
+.divUserName
+{
+    font-size: 20px;
+}
+.divUserName a
+{
+    color: #fff;
+}
+

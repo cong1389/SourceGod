@@ -344,24 +344,33 @@ namespace Cb.Web.Admin.Pages.Products
         }
 
         /// <summary>
-        /// Gán dữ liệu cho drpNewsCategory
+        /// Gán dữ liệu cho drpCategory
         /// Vi Get du lieu theo Medical_ProductCategory, cid lay tu url xuong nên SelectedIndex theo cid        
         /// </summary>
         private void BindNewsCategory()
         {
-            admin_editproduct.GetDataDropDownCategory(drpNewsCategory);
-            //drpNewsCategory.SelectedIndex = 0;
-            drpNewsCategory.SelectedIndex = drpNewsCategory.Items.IndexOf(drpNewsCategory.Items.FindByValue(ConfigurationManager.AppSettings["parentIdLeture"]));
-            //drpNewsCategory.Attributes.Add("disabled", "disabled");
-            //drpNewsCategory.Style.Add("background-color", "#dddddd");
+            admin_editproduct.GetDataDropDownCategory(drpCategory);
+            //drpCategory.SelectedIndex = 0;
+            //drpCategory.SelectedIndex = drpCategory.Items.IndexOf(drpCategory.Items.FindByValue(ConfigurationManager.AppSettings["parentIdLeture"]));
+            //drpCategory.Attributes.Add("disabled", "disabled");
+            //drpCategory.Style.Add("background-color", "#dddddd");
         }
 
         private string GetAllChildCategory()
         {
+            int categoryId = DBConvert.ParseInt(drpCategory.SelectedValue);
+            categoryId = categoryId == 0 ? int.MinValue : DBConvert.ParseInt(drpCategory.SelectedValue);
             string arrId = "'''";
-            ProductCategoryBLL newsCateBll = new ProductCategoryBLL();
-            IList<Medical_ProductCategory> lst = newsCateBll.GetAllChild(DBConvert.ParseInt(drpNewsCategory.SelectedValue), true);
-            arrId = arrId + Utils.ArrayToString<Medical_ProductCategory>((List<Medical_ProductCategory>)lst, "Id", "'',''") + "'''";
+            if (categoryId != int.MinValue)
+            {
+                ProductCategoryBLL newsCateBll = new ProductCategoryBLL();
+                IList<Medical_ProductCategory> lst = newsCateBll.GetAllChild(DBConvert.ParseInt(drpCategory.SelectedValue), true);
+                arrId = arrId + Utils.ArrayToString<Medical_ProductCategory>((List<Medical_ProductCategory>)lst, "Id", "'',''") + "'''";
+            }
+            else
+            {
+                arrId = string.Empty;
+            }
             return arrId;// !string.IsNullOrEmpty(arrId) ? arrId : "-1011";
         }
 
@@ -396,7 +405,7 @@ namespace Cb.Web.Admin.Pages.Products
         {
             InitPage();
 
-            strHeaderProduct.Text = drpNewsCategory.SelectedItem.Text;
+            strHeaderProduct.Text = drpCategory.SelectedItem.Text;
         }
 
         protected void btnSave_Click(object sender, EventArgs e)
@@ -410,6 +419,11 @@ namespace Cb.Web.Admin.Pages.Products
         {
             Search();
             //rptResult.DataBind();
+        }
+
+        protected void drpCategory_onchange(object sender, EventArgs e)
+        {
+            Search();
         }
 
         /// <summary>

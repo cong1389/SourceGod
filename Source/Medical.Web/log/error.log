@@ -8974,3 +8974,78 @@ Parameter name: virtualPath
 [Classes Name]		Generic2C<T, TDesc>
 [Functions Name]	Load(Medical_ProductCategory obj, string[] primaryKeyNames, int langId, out TDesc objDesc)
 [Description Error]	Object reference not set to an instance of an object.
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:05:56 PM
+[Classes Name]		admin_editservice
+[Functions Name]	default
+[Description Error]	d:\Parttime\SourceGod\Source\Medical.Web\Admin\Pages\User\admin_user.ascx(71): error CS1061: 'ASP.admin_pages_user_admin_user_ascx' does not contain a definition for 'btnSave_Click' and no extension method 'btnSave_Click' accepting a first argument of type 'ASP.admin_pages_user_admin_user_ascx' could be found (are you missing a using directive or an assembly reference?)
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:06:05 PM
+[Classes Name]		admin_editservice
+[Functions Name]	default
+[Description Error]	d:\Parttime\SourceGod\Source\Medical.Web\Admin\Pages\User\admin_user.ascx(71): error CS1061: 'ASP.admin_pages_user_admin_user_ascx' does not contain a definition for 'btnSave_Click' and no extension method 'btnSave_Click' accepting a first argument of type 'ASP.admin_pages_user_admin_user_ascx' could be found (are you missing a using directive or an assembly reference?)
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:06:38 PM
+[Classes Name]		admin_editservice
+[Functions Name]	default
+[Description Error]	d:\Parttime\SourceGod\Source\Medical.Web\Admin\Pages\User\admin_user.ascx(71): error CS1061: 'ASP.admin_pages_user_admin_user_ascx' does not contain a definition for 'btnSave_Click' and no extension method 'btnSave_Click' accepting a first argument of type 'ASP.admin_pages_user_admin_user_ascx' could be found (are you missing a using directive or an assembly reference?)
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:06:51 PM
+[Classes Name]		admin_editservice
+[Functions Name]	default
+[Description Error]	d:\Parttime\SourceGod\Source\Medical.Web\Admin\Pages\User\admin_user.ascx(71): error CS1061: 'ASP.admin_pages_user_admin_user_ascx' does not contain a definition for 'btnSave_Click' and no extension method 'btnSave_Click' accepting a first argument of type 'ASP.admin_pages_user_admin_user_ascx' could be found (are you missing a using directive or an assembly reference?)
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:11:49 PM
+[Classes Name]		Generic2C<T, TDesc>
+[Functions Name]	Load(Medical_ProductCategory obj, string[] primaryKeyNames, int langId, out TDesc objDesc)
+[Description Error]	Object reference not set to an instance of an object.
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:13:16 PM
+[Classes Name]		admin_editservice
+[Functions Name]	default
+[Description Error]	d:\Parttime\SourceGod\Source\Medical.Web\Admin\Pages\Slider\admin_slider.ascx(55): error CS1061: 'ASP.admin_pages_slider_admin_slider_ascx' does not contain a definition for 'btnSave_Click' and no extension method 'btnSave_Click' accepting a first argument of type 'ASP.admin_pages_slider_admin_slider_ascx' could be found (are you missing a using directive or an assembly reference?)
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:13:35 PM
+[Classes Name]		Generic2C<T, TDesc>
+[Functions Name]	Load(Medical_ProductCategory obj, string[] primaryKeyNames, int langId, out TDesc objDesc)
+[Description Error]	Object reference not set to an instance of an object.
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:13:44 PM
+[Classes Name]		admin_editservice
+[Functions Name]	default
+[Description Error]	d:\Parttime\SourceGod\Source\Medical.Web\Admin\Pages\Slider\admin_slider.ascx(55): error CS1061: 'ASP.admin_pages_slider_admin_slider_ascx' does not contain a definition for 'btnSave_Click' and no extension method 'btnSave_Click' accepting a first argument of type 'ASP.admin_pages_slider_admin_slider_ascx' could be found (are you missing a using directive or an assembly reference?)
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:13:48 PM
+[Classes Name]		admin_editservice
+[Functions Name]	default
+[Description Error]	d:\Parttime\SourceGod\Source\Medical.Web\Admin\Pages\Slider\admin_slider.ascx(55): error CS1061: 'ASP.admin_pages_slider_admin_slider_ascx' does not contain a definition for 'btnSave_Click' and no extension method 'btnSave_Click' accepting a first argument of type 'ASP.admin_pages_slider_admin_slider_ascx' could be found (are you missing a using directive or an assembly reference?)
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 5:43:10 PM
+[Classes Name]		Generic2C<T, TDesc>
+[Functions Name]	Load(Medical_ProductCategory obj, string[] primaryKeyNames, int langId, out TDesc objDesc)
+[Description Error]	Object reference not set to an instance of an object.
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 6:01:15 PM
+[Classes Name]		Generic<T>
+[Functions Name]	Update(Medical_Product currentObj, Medical_Product expectedObj, string[] primaryKeyNames)
+[Description Error]	Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 6:01:30 PM
+[Classes Name]		Generic<T>
+[Functions Name]	Update(Medical_Product currentObj, Medical_Product expectedObj, string[] primaryKeyNames)
+[Description Error]	Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 6:01:45 PM
+[Classes Name]		Generic<T>
+[Functions Name]	Update(Medical_Product currentObj, Medical_Product expectedObj, string[] primaryKeyNames)
+[Description Error]	Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+--------------------------------------------------------------------------------
+[Date & Time]		30/06/2015 6:02:00 PM
+[Classes Name]		Generic<T>
+[Functions Name]	Update(Medical_Product currentObj, Medical_Product expectedObj, string[] primaryKeyNames)
+[Description Error]	Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+--------------------------------------------------------------------------------
+[Date & Time]		01/07/2015 8:10:55 AM
+[Classes Name]		Generic2C<T, TDesc>
+[Functions Name]	Load(Medical_ProductCategory obj, string[] primaryKeyNames, int langId, out TDesc objDesc)
+[Description Error]	Object reference not set to an instance of an object.

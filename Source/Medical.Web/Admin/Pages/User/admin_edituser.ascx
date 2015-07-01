@@ -125,7 +125,16 @@
                     <input type="checkbox" name="chkPublished" id="chkPublished" runat="server" />
                 </td>
             </tr>
-            <!-- BEGIN show_new_username -->
+            <tr>
+                <td>
+                    <strong>
+                        <%=l_permission%></strong>
+                </td>
+                <td>
+                    <asp:DropDownList ID="drpPermission" runat="server" CssClass="form-control">
+                    </asp:DropDownList>
+                </td>
+            </tr>
             <tr>
                 <td>
                     <strong>
@@ -134,7 +143,7 @@
                 <td>
                     <input type="text" name="txtUsername" id="txtUsername" maxlength="50" runat="server" />
                     <asp:RequiredFieldValidator ID="reqv_txtUsername" ControlToValidate="txtUsername"
-                        SetFocusOnError="true"  Enabled="false" Text="*" runat="server" ValidationGroup="adminuser"></asp:RequiredFieldValidator>
+                        SetFocusOnError="true" Enabled="false" Display="Dynamic" runat="server" ValidationGroup="adminuser"></asp:RequiredFieldValidator>
                     <asp:CustomValidator ID="cusv_txtUsername" ControlToValidate="txtUsername" ValidationGroup="adminuser"
                         ClientValidationFunction="CheckUserName" runat="server"></asp:CustomValidator>
                     <i style="color: Red">
@@ -151,9 +160,9 @@
                     <input type="password" name="txtPassword" id="txtPassword" size="20" maxlength="25"
                         runat="server" cssclass="form-control" />
                     <asp:RequiredFieldValidator ID="reqv_txtPassword" ControlToValidate="txtPassword"
-                        Text="*" runat="server" ValidationGroup="adminuser"></asp:RequiredFieldValidator>
+                        runat="server" ValidationGroup="adminuser" Display="Dynamic" SetFocusOnError="true" ></asp:RequiredFieldValidator>
                     <asp:CustomValidator ID="cus_checkPassWord" ControlToValidate="txtPassword" ValidationGroup="adminuser"
-                        ClientValidationFunction="CheckPassWord" Text="*" runat="server"></asp:CustomValidator>
+                        ClientValidationFunction="CheckPassWord" runat="server" Display="Dynamic"></asp:CustomValidator>
                     <i style="color: Red">
                         <asp:Literal ID="ltrNotePassword" runat="server"></asp:Literal></i>
                 </td>
@@ -167,9 +176,9 @@
                     <input type="password" name="txtConfirmpassword" id="txtConfirmpassword" size="20"
                         maxlength="25" runat="server" />
                     <asp:RequiredFieldValidator ID="reqvc_txtConfirmpassword" ControlToValidate="txtConfirmpassword"
-                        Text="*" runat="server" ValidationGroup="adminuser" ErrorMessage="<%=msg_user_confirmpassword%>"></asp:RequiredFieldValidator>
+                       Display="Dynamic" runat="server" ValidationGroup="adminuser" ErrorMessage="<%=msg_user_confirmpassword%>"></asp:RequiredFieldValidator>
                     <asp:CompareValidator ID="comv_Password" runat="server" ControlToValidate="txtConfirmpassword"
-                        Text="*" ControlToCompare="txtPassword" ValidationGroup="adminuser" ErrorMessage="<%=msg_user_not_same_password%>"></asp:CompareValidator>
+                       Display="Dynamic" ControlToCompare="txtPassword" ValidationGroup="adminuser" ErrorMessage="<%=msg_user_not_same_password%>"></asp:CompareValidator>
                 </td>
             </tr>
             <tr>
@@ -180,7 +189,7 @@
                 <td>
                     <input type="text" name="txtName" id="txtFullName" size="60" maxlength="50" runat="server" />
                     <asp:RequiredFieldValidator ID="reqvc_txtFullName" ControlToValidate="txtFullName"
-                        Text="*" runat="server" ValidationGroup="adminuser" ErrorMessage="<%=msg_user_name%>"></asp:RequiredFieldValidator>
+                        Display="Dynamic" runat="server" ValidationGroup="adminuser" ErrorMessage="<%=msg_user_name%>"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -190,10 +199,10 @@
                 </td>
                 <td>
                     <input type="text" name="txtEmail" id="txtEmail" size="30" maxlength="50" runat="server" />
-                    <asp:RequiredFieldValidator ID="reqvc_txtEmail" ControlToValidate="txtEmail" Text="*"
+                    <asp:RequiredFieldValidator ID="reqvc_txtEmail" ControlToValidate="txtEmail" Display="Dynamic"
                         runat="server" ValidationGroup="adminuser" ErrorMessage="<%=msg_empty_email%>"></asp:RequiredFieldValidator>
                     <asp:RegularExpressionValidator ID="regv_Email" ControlToValidate="txtEmail" runat="server"
-                        Text="*" ValidationExpression="" ValidationGroup="adminuser" ErrorMessage="<%=msg_invalid_email%>"></asp:RegularExpressionValidator>
+                        Display="Dynamic" ValidationExpression="" ValidationGroup="adminuser" ErrorMessage="<%=msg_invalid_email%>"></asp:RegularExpressionValidator>
                 </td>
             </tr>
             <tr>
@@ -204,22 +213,22 @@
                 <td>
                     <input type="text" name="txtPhone" id="txtPhone" maxlength="15" runat="server" header_name />
                     <asp:RegularExpressionValidator ID="regv_txtPhone" ControlToValidate="txtPhone" runat="server"
-                        ValidationGroup="adminuser" Text="*"></asp:RegularExpressionValidator>
+                        ValidationGroup="adminuser" Display="Dynamic"></asp:RegularExpressionValidator>
                 </td>
             </tr>
             <tr>
                 <td>
                     <strong>
-                        <asp:Literal ID="asdfsdf" runat="server" Text="ltrFooterTelCompany"></asp:Literal>:</strong>
+                        <asp:Literal ID="asdfsdf" runat="server" Text="Mobile"></asp:Literal></strong>
                 </td>
                 <td>
                     <input type="text" name="txtMobile" id="txtMobile" maxlength="15" runat="server"
                         cssclass="form-control" />
                     <asp:RegularExpressionValidator ID="regv_txtMobile" ControlToValidate="txtMobile"
-                        runat="server" ValidationGroup="adminuser" Text="*"></asp:RegularExpressionValidator>
+                        runat="server" ValidationGroup="adminuser" Display="Dynamic"></asp:RegularExpressionValidator>
                 </td>
             </tr>
-            <tr>
+            <tr style="display: none;">
                 <td>
                     <strong>
                         <asp:Literal ID="asdfasfas" runat="server" Text="statement_location"></asp:Literal>:</strong>
@@ -238,17 +247,7 @@
                     <input type="text" name="txtAddress" id="txtAddress" size="50" maxlength="125" runat="server" />
                 </td>
             </tr>
-            <tr>
-                <td>
-                    <strong>
-                        <%=l_permission%></strong>
-                </td>
-                <td>
-                    <asp:DropDownList ID="drpPermission" runat="server" CssClass="form-control">
-                    </asp:DropDownList>
-                </td>
-            </tr>
-            <tr>
+            <tr style="display: none;">
                 <td>
                     <strong>
                         <asp:Literal ID="Literal1" runat="server" Text="strNewsPromo"></asp:Literal></strong>

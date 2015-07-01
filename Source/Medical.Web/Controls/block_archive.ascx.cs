@@ -88,7 +88,7 @@ namespace Cb.Web.Controls
                 hypItem.HRef = LinkHelper.GetLink(pageName, LangId, date);
 
                 Literal ltrItem = e.Item.FindControl("ltrItem") as Literal;
-                ltrItem.Text = string.Format("Tháng {0} {1}", data.Month, data.Year);
+                ltrItem.Text =hypItem.Title= string.Format("Tháng {0} {1}", data.Month, data.Year);
                 //Literal ltrItem = e.Item.FindControl("ltrItem") as Literal;
                 //ltrItem.Text = data.ProductDesc.Design;              
             }

@@ -69,11 +69,12 @@ namespace Cb.Web.Controls.CategoryManagement
             if (e.Item.ItemType == ListItemType.Item || e.Item.ItemType == ListItemType.AlternatingItem)
             {
                 Medical_Product data = e.Item.DataItem as Medical_Product;
+
                 HtmlAnchor hypItem = e.Item.FindControl("hypItem") as HtmlAnchor;
                 hypItem.HRef = LinkHelper.GetLink(data.NameUrlDesc, LangId, data.ProductDesc.TitleUrl);
 
                 Literal ltrItem = e.Item.FindControl("ltrItem") as Literal;
-                ltrItem.Text = data.ProductDesc.Design;
+                ltrItem.Text = hypItem.Title = data.ProductDesc.Design;
             }
         }
 

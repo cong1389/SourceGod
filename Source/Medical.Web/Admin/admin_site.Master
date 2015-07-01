@@ -5,19 +5,17 @@
 <%@ Register TagPrefix="dgc" TagName="menu" Src="~/Admin/Controls/menu.ascx" %>
 <%@ Register TagPrefix="dgc" TagName="footer" Src="~/Admin/Controls/footer.ascx" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0052)http://vieclamyduoc.camnangthuoc.vn/admin.user/list/ -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <title>QUAN TRI ADMIN</title>
+    <link href="/Admin/Images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="robots" content="index, follow" />
     <script type="text/javascript">
         var domainUrl = "/admin";
     </script>
-    <meta name="robots" content="index, follow" />
-    <meta name="keywords" content="DIGICOM Corp, digicom, DGC" />
-    <link href="/Admin/Style/global.css" rel="stylesheet" type="text/css" />
-    <title>QUAN TRI ADMIN</title>
 </head>
-<body style="background-image: none">
+<body>
     <form id="aspnetForm" runat="server">
     <div id="wrapper">
         <dgc:header ID="header" runat="server" />

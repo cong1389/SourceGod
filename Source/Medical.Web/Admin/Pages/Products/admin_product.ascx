@@ -32,35 +32,35 @@
             return true;
     }    
 </script>
-<table width="100%" class="menubar" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" class="menubar">
     <tr>
         <td class="menudottedline" width="40%">
             <div class="pathway">
             </div>
         </td>
-        <td class="menudottedline" align="right">
-            <table cellpadding="0" cellspacing="0" border="0" id="toolbar">
-                <tr valign="middle" align="center">
+        <td class="menudottedline">
+            <table id="toolbar">
+                <tr valign="middle">
                     <td>
-                        <a class="btn btn-info btn-xs" href="javascript:submitButton('publish');"><span class="glyphicon glyphicon-ok-circle btn-lg">
-                        </span>
+                        <a class="btn btn-info btn-xs" href="javascript:submitButton('publish');"><i class="fa fa-check-circle-o fa-2x">
+                        </i>
                             <asp:Literal ID="ltrAdminPublish" runat="server" Text="strAdminPublish"></asp:Literal></a>
                     </td>
                     <td>
                         &nbsp;
                     </td>
                     <td>
-                        <a class="btn btn-warning btn-xs" href="javascript:submitButton('unpublish');"><span
-                            class="glyphicon glyphicon-remove-circle btn-lg"></span>
+                        <a class="btn btn-warning btn-xs" href="javascript:submitButton('unpublish');"><i
+                            class="fa fa-times-circle-o fa-2x "></i>
                             <asp:Literal ID="ltrAminUnpublish" runat="server" Text="str_admin_unpublish"></asp:Literal></a>
                     </td>
                     <td>
                         &nbsp;
                     </td>
-                    <td>
-                        <a class="btn btn-success btn-xs" href="javascript:submitButton('new');"><span class="glyphicon glyphicon-new-window btn-lg">
-                        </span>
-                            <asp:Literal ID="ltrAdminAddNew" runat="server" Text="strAdminAddNew"></asp:Literal>
+                    <td runat="server" id="tdNew">
+                        <a class="btn btn-success btn-xs" href="javascript:submitButton('new');"><i class="fa fa-search-plus fa-2x">
+                        </i>
+                            <asp:Literal ID="ltrAdminAddNew" runat="server" Text="Thêm mới"></asp:Literal>
                         </a>
                     </td>
                     <td>
@@ -68,24 +68,24 @@
                     </td>
                     <td>
                         <button runat="server" id="btnSave" class="btn btn-success btn-xs" title="Lưu" onserverclick="btnSave_Click">
-                            <span class="glyphicon glyphicon-floppy-disk btn-lg"></span>Lưu
+                            <i class="fa fa-floppy-o fa-2x"></i>&nbsp Lưu
                         </button>
                     </td>
                     <td>
                         &nbsp;
                     </td>
                     <td runat="server" id="tdEdit">
-                        <a class="btn btn-success btn-xs" href="javascript:submitButton('edit');"><span class="glyphicon glyphicon-edit btn-lg">
-                        </span>
-                            <asp:Literal ID="ltrAdminEdit" runat="server" Text="strEdit"></asp:Literal></a>
+                        <a class="btn btn-success btn-xs" href="javascript:submitButton('edit');"><i class="fa fa-pencil fa-2x">
+                        </i>&nbsp
+                            <asp:Literal ID="ltrAdminEdit" runat="server" Text="Chỉnh sửa"></asp:Literal></a>
                     </td>
                     <td>
                         &nbsp;
                     </td>
                     <td runat="server" id="tdDelete">
-                        <a class="btn btn-danger btn-xs" href="javascript:submitButton('delete');"><span
-                            class="glyphicon glyphicon-remove btn-lg"></span>
-                            <asp:Literal ID="ltrAdminDelete" runat="server" Text="strDelete"></asp:Literal></a>
+                        <a class="btn btn-danger btn-xs" href="javascript:submitButton('delete');"><i class="fa fa-trash-o fa-lg fa-2x">
+                        </i>&nbsp
+                            <asp:Literal ID="ltrAdminDelete" runat="server" Text="Xóa"></asp:Literal></a>
                     </td>
                 </tr>
             </table>
@@ -94,7 +94,7 @@
 </table>
 <br />
 <!-- BEGIN show_msg -->
-<%--<%=show_msg%>--%>
+<%=show_msg%>
 <!-- END show_msg -->
 <div align="center" class="centermain">
     <div class="main">
@@ -103,21 +103,22 @@
                 <th style="width: 150px">
                     <asp:Literal ID="strHeaderProduct" runat="server" Text="strHeaderProduct"></asp:Literal>
                 </th>
-                <td style="width: 150px">
-                    <asp:DropDownList ID="drpNewsCategory" runat="server" CssClass="form-control">
+                <td class="col-lg-4 ">
+                    <asp:DropDownList ID="drpCategory" runat="server" CssClass="form-control" OnSelectedIndexChanged="drpCategory_onchange"
+                        AutoPostBack="True">
                     </asp:DropDownList>
                 </td>
                 <td style="width: 10px">
                     &nbsp;
                 </td>
-                <td class="col-lg-4 pull-right">
+                <td class="col-lg-4">
                     <div style="display: table">
                         <input type="text" id="search" name="search" class="form-control" runat="server"
                             onkeypress="return search_keypress(event);" placeholder="Tìm kiếm" />
                         <div class="input-group-btn">
                             <button id="btnSearch" runat="server" class="btn btn-default " onserverclick="btnSearch_Click"
                                 style="height: 34px !important">
-                                <i class="glyphicon glyphicon-search"></i>
+                                <i class="fa fa-search fa-1x"></i>
                             </button>
                         </div>
                     </div>

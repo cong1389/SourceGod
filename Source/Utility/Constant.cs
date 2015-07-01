@@ -257,6 +257,10 @@ namespace Cb.Utility
             public const string config_title = "title";
             public const string config_metaDescription = "metaDescription";
             public const string config_metaKeyword = "metaKeyword";
+
+            public const string config_facebook = "facebook";
+            public const string config_googleplus = "googleplus";
+            public const string config_twitter = "twitter";
         }
 
 

@@ -44,7 +44,7 @@
                     <table class="adminheading">
                         <tr>
                             <th nowrap="nowrap" class="config">
-                                <span class="glyphicon glyphicon-cog" />
+                                <i class="fa fa-cogs"></i>
                                 <asp:Literal ID="ltrHeader" runat="server" Text="strConfig"></asp:Literal>
                             </th>
                         </tr>
@@ -76,7 +76,7 @@
                     <tr>
                         <td>
                             <strong>
-                                <asp:Literal ID="ltrPne" runat="server" Text="company"></asp:Literal></strong>
+                                <asp:Literal ID="ltrPne" runat="server" Text="Phone"></asp:Literal></strong>
                         </td>
                         <td>
                             <input type="text" id="txt_config_phone" runat="server" class="form-control" maxlength="50"
@@ -86,7 +86,7 @@
                     <tr>
                         <td>
                             <strong>
-                                <asp:Literal ID="Literal1" runat="server" Text="strFax"></asp:Literal></strong>
+                                <asp:Literal ID="Literal1" runat="server" Text="Tài khoản ngân hàng 2"></asp:Literal></strong>
                         </td>
                         <td>
                             <input type="text" id="txtFax" runat="server" class="form-control" maxlength="50"
@@ -108,7 +108,7 @@
                     <tr>
                         <td>
                             <strong>
-                                <asp:Literal ID="ltrPhone_Support" runat="server" Text="enuChat_yahoo"></asp:Literal></strong>
+                                <asp:Literal ID="ltrPhone_Support" runat="server" Text="Tài khoản ngân hàng 2"></asp:Literal></strong>
                         </td>
                         <td>
                             <input type="text" id="txtYahoo" runat="server" class="form-control" maxlength="50"
@@ -118,7 +118,7 @@
                     <tr>
                         <td>
                             <strong>
-                                <asp:Literal ID="ltrPhone_Consultan" runat="server" Text="enuChat_skype"></asp:Literal>:</strong>
+                                <asp:Literal ID="ltrPhone_Consultan" runat="server" Text="Tài khoản ngân hàng 3"></asp:Literal></strong>
                         </td>
                         <td>
                             <input type="text" id="txtSkype" runat="server" class="form-control" maxlength="50"
@@ -148,7 +148,7 @@
                     <tr>
                         <td>
                             <strong>
-                                <asp:Literal ID="Literal6" runat="server" Text="ltrFooterAddress1"></asp:Literal>:</strong>
+                                <asp:Literal ID="Literal6" runat="server" Text="Chủ tài khoản"></asp:Literal></strong>
                         </td>
                         <td>
                             <input type="text" id="txtAddress1" runat="server" class="form-control" maxlength="50"
@@ -165,11 +165,9 @@
                             <asp:FileUpload ID="fuImageHeader" runat="server" EnableViewState="true" />
                             <asp:Button ID="btnUploadImageHeader" runat="server" Text="strUpload" OnClick="btnUploadImageHeader_Click" />
                             <asp:LinkButton ID="lbnViewHeader" runat="server" Text="strView" Visible="false"
-                                CssClass="zoom-image"><span class="glyphicon glyphicon-fullscreen btn-sm">
-                        </span></asp:LinkButton>&nbsp;&nbsp;&nbsp;&nbsp;
+                                CssClass="zoom-image"><i class="fa fa-picture-o fa-2x"></i></asp:LinkButton>&nbsp;&nbsp;&nbsp;&nbsp;
                             <asp:LinkButton ID="lbnDeleteHeader" runat="server" Text="strDelete" Visible="false"
-                                OnClick="lbnDeleteImageHeader_Click"><span class="glyphicon glyphicon-trash btn-sm">
-                        </span></asp:LinkButton>
+                                OnClick="lbnDeleteImageHeader_Click"><i class="fa fa-trash-o fa-2x"></i></asp:LinkButton>
                         </td>
                     </tr>
                     <tr>
@@ -182,11 +180,9 @@
                             <asp:FileUpload ID="fuImageFooter" runat="server" EnableViewState="true" />
                             <asp:Button ID="btnUploadImageFooter" runat="server" Text="strUpload" OnClick="btnUploadImageFooter_Click" />
                             <asp:LinkButton ID="lbnViewFooter" runat="server" Text="strView" Visible="false"
-                                CssClass="zoom-image"><span class="glyphicon glyphicon-fullscreen btn-sm">
-                        </span></asp:LinkButton>&nbsp;&nbsp;&nbsp;&nbsp;
+                                CssClass="zoom-image"><i class="fa fa-picture-o fa-2x"></i></asp:LinkButton>&nbsp;&nbsp;&nbsp;&nbsp;
                             <asp:LinkButton ID="lbnDeleteFooter" runat="server" Text="strDelete" Visible="false"
-                                OnClick="lbnDeleteImageFooter_Click"><span class="glyphicon glyphicon-trash btn-sm">
-                        </span></asp:LinkButton>
+                                OnClick="lbnDeleteImageFooter_Click"><i class="fa fa-trash-o fa-2x"></i></asp:LinkButton>
                         </td>
                     </tr>
                     <tr>
@@ -200,11 +196,9 @@
                             <asp:Button ID="btnUploadLocation" runat="server" Text="strUpload" OnClick="btnUploadLocation_Click"
                                 CssClass="btn btn-info btn-xs" />
                             <asp:LinkButton ID="lbnViewLocation" runat="server" Text="strView" Visible="false"
-                                CssClass="zoom-image"><span class="glyphicon glyphicon-fullscreen btn-sm">
-                        </span></asp:LinkButton>&nbsp;&nbsp;&nbsp;&nbsp;
+                                CssClass="zoom-image"><i class="fa fa-picture-o fa-2x"></i></asp:LinkButton>&nbsp;&nbsp;&nbsp;&nbsp;
                             <asp:LinkButton ID="lbnDeleteLocation" runat="server" Text="strDelete" Visible="false"
-                                OnClick="lbnDeleteLocation_Click"><span class="glyphicon glyphicon-trash btn-sm">
-                        </span></asp:LinkButton>
+                                OnClick="lbnDeleteLocation_Click"><i class="fa fa-trash-o fa-2x"></i></asp:LinkButton>
                         </td>
                     </tr>
                 </table>
@@ -238,6 +232,33 @@
                             <textarea id="txtMetaKeyword" runat="server" class="form-control"></textarea>
                         </td>
                     </tr>
+                    <tr>
+                        <td>
+                            <strong>
+                                <asp:Literal ID="Literal12" runat="server" Text="Facebook"></asp:Literal></strong>
+                        </td>
+                        <td>
+                            <textarea id="txtFacebook" runat="server" class="form-control"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <strong>
+                                <asp:Literal ID="Literal13" runat="server" Text="Google Plus"></asp:Literal></strong>
+                        </td>
+                        <td>
+                            <textarea id="txtGooglePlus" runat="server" class="form-control"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <strong>
+                                <asp:Literal ID="Literal14" runat="server" Text="Twitter"></asp:Literal></strong>
+                        </td>
+                        <td>
+                            <textarea id="txtTwitter" runat="server" class="form-control"></textarea>
+                        </td>
+                    </tr>
                 </table>
             </div>
             <div id="tabs-3">
@@ -252,7 +273,7 @@
                                 runat="server" placeholder="Nhập key" />
                             <button id="btnGetValue" runat="server" class="btn btn-default  " onserverclick="btnGetValue_Click"
                                 style="height: 34px !important" title="Find">
-                                <i class="glyphicon glyphicon-search"></i>
+                                <i class="fa fa-search fa-1x"></i>
                             </button>
                         </td>
                     </tr>
@@ -266,7 +287,7 @@
                                 placeholder="Value By Key" />
                             <button id="btnSetValue" runat="server" class="btn btn-default  " onserverclick="btnSetValue_Click"
                                 style="height: 34px !important" title="Save">
-                                <i class="glyphicon glyphicon-floppy-save"></i>s
+                                <i class="fa fa-floppy-o fa-2x"></i>
                             </button>
                         </td>
                     </tr>

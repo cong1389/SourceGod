@@ -18,7 +18,8 @@ namespace Cb.Web.Admin.Pages.Config
 {
     public partial class admin_config : System.Web.UI.UserControl
     {
-        #region Fields
+        #region Parameter
+
         protected string template_path;
 
         private string filenameUploadHeader
@@ -65,6 +66,7 @@ namespace Cb.Web.Admin.Pages.Config
                 ViewState["filenameUploadLocation"] = value;
             }
         }
+
         #endregion
 
         #region Common
@@ -191,6 +193,20 @@ namespace Cb.Web.Admin.Pages.Config
                     this.txtMetaKeyword.Value = item.Value_name;
                 }
 
+                else if (item.Key_name == Constant.Configuration.config_facebook)
+                {
+                    this.txtFacebook.Value = item.Value_name;
+                }
+
+                else if (item.Key_name == Constant.Configuration.config_googleplus)
+                {
+                    this.txtGooglePlus.Value = item.Value_name;
+                }
+                else if (item.Key_name == Constant.Configuration.config_twitter)
+                {
+                    this.txtTwitter.Value = item.Value_name;
+                }
+
                 else if (item.Key_name == Constant.Configuration.config_logoHeader)
                 {
                     filenameUploadHeader = item.Value_name;
@@ -227,7 +243,7 @@ namespace Cb.Web.Admin.Pages.Config
         {
             ConfigurationBLL cgBLL = new ConfigurationBLL();
             cgBLL.SaveConfig(this.txt_config_email.Value.Trim(), this.txt_config_phone.Value.Trim(), txt_config_sitename.Value.Trim(), txtFax.Value.Trim(), txtSkype.Value.Trim(), txtYahoo.Value.Trim(), txtCompanyName.Value.Trim(), txtAddress.Value.Trim(), txtAddress1.Value.Trim(), filenameUploadHeader, filenameUploadFooter, filenameUploadLocation
-                , txtTitle.Value.Trim(), txtMetaDescription.Value.Trim(), txtMetaKeyword.Value.Trim());
+                , txtTitle.Value.Trim(), txtMetaDescription.Value.Trim(), txtMetaKeyword.Value.Trim(), txtFacebook.Value.Trim(), txtGooglePlus.Value.Trim(), txtTwitter.Value.Trim());
 
         }
 

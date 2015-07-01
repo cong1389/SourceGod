@@ -44,11 +44,11 @@ namespace Cb.BLL
         /// <summary>
         /// SaveConfig
         /// </summary>
-        public void SaveConfig(string email, string phone, string sitename, string fax, string skype, string yahoo, string companyName, string address, string address1, string logoHeader, string logoFooter, string location, string title, string metaDescription, string metaKeyword)
+        public void SaveConfig(string email, string phone, string sitename, string fax, string skype, string yahoo, string companyName, string address, string address1, string logoHeader, string logoFooter, string location, string title, string metaDescription, string metaKeyword, string facebook, string googleplus, string twitter)
         {
             Generic<Medical_Configuration> cf = new Generic<Medical_Configuration>();
             Medical_Configuration obj = new Medical_Configuration();
-            DGCParameter[] param = new DGCParameter[15];
+            DGCParameter[] param = new DGCParameter[18];
             if (!string.IsNullOrEmpty(email))
                 param[0] = new DGCParameter(string.Format("{0}config_email", prefixParam), DbType.String, email);
             else
@@ -123,6 +123,21 @@ namespace Cb.BLL
                 param[14] = new DGCParameter(string.Format("{0}metaKeyword", prefixParam), DbType.String, metaKeyword);
             else
                 param[14] = new DGCParameter(string.Format("{0}metaKeyword", prefixParam), DbType.String, DBNull.Value);
+
+            if (!string.IsNullOrEmpty(facebook))
+                param[15] = new DGCParameter(string.Format("{0}facebook", prefixParam), DbType.String, facebook);
+            else
+                param[15] = new DGCParameter(string.Format("{0}facebook", prefixParam), DbType.String, DBNull.Value);
+
+            if (!string.IsNullOrEmpty(googleplus))
+                param[16] = new DGCParameter(string.Format("{0}googleplus", prefixParam), DbType.String, googleplus);
+            else
+                param[16] = new DGCParameter(string.Format("{0}googleplus", prefixParam), DbType.String, DBNull.Value);
+
+            if (!string.IsNullOrEmpty(twitter))
+                param[17] = new DGCParameter(string.Format("{0}twitter", prefixParam), DbType.String, twitter);
+            else
+                param[17] = new DGCParameter(string.Format("{0}twitter", prefixParam), DbType.String, DBNull.Value);
 
             cf.ExcuteNonQueryFromStore("Configuration_Update", param);
 

@@ -31,6 +31,15 @@ namespace Cb.Web.Admin.Pages.ProductsCategory {
         protected global::System.Web.UI.WebControls.Literal ltrAminUnpublish;
         
         /// <summary>
+        /// tdNew control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlTableCell tdNew;
+        
+        /// <summary>
         /// ltrAdminAddNew control.
         /// </summary>
         /// <remarks>

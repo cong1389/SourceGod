@@ -1,4 +1,4 @@
-/*@import url(http://fonts.googleapis.com/css?family=Fjalla+One);*/
+
 .clearfix
 {
     zoom: 1;
@@ -115,6 +115,7 @@ body > section#slide-show
 #block_translatedbook
 {
     color: #000;
+    padding-bottom: 50px;
 }
 #block_translatedbook .links > a
 {
@@ -692,7 +693,7 @@ textarea#message
 }
 .widget
 {
-    /*  margin-bottom: 30px;*/
+    text-transform: uppercase; /*  margin-bottom: 30px;*/
 }
 .widget > h3
 {

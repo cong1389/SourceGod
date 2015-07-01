@@ -65,7 +65,7 @@ namespace Cb.Web.Controls
                 img.Src = WebUtils.GetUrlImage(ConfigurationManager.AppSettings["UploadSlider"], data.Image);
 
                 Literal ltrName = e.Item.FindControl("ltrName") as Literal;
-                ltrName.Text = img.Alt = data.Name;
+                ltrName.Text = img.Alt = img.Attributes["title"] = img.Alt = data.Name;
 
                 Literal ltrDetail = e.Item.FindControl("ltrDetail") as Literal;
                 ltrDetail.Text = data.Detail;

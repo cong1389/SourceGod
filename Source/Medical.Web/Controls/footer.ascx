@@ -24,7 +24,7 @@
                 </ul>
             </div>
             <div class="span1">
-                <a id="gototop" class="gototop pull-right" href="#"><i class="icon-angle-up"></i>
+                <a id="gototop" class="gototop pull-right" href="#"><i class="fa fa-angle-up"></i>
                 </a>
             </div>
             <!--/Goto Top-->

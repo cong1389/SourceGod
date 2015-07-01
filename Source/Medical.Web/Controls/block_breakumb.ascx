@@ -9,8 +9,12 @@
             </div>
             <div class="span6">
                 <ul class="breadcrumb pull-right">
-                    <li><a runat="server" id="hypHome">Trang chủ</a> <span class="divider">/</span></li>
-                    <li><a runat="server" id="hypPageSub"><asp:Literal runat="server" ID="ltrPageSub"></asp:Literal></a> <span class="divider"></span></li>                    
+                    <li><a runat="server" id="hypHome">Trang chủ</a> 
+                         <span class="divider">/</span></li>
+                    <li>
+                        <a runat="server" id="hypPageSub"><asp:Literal runat="server" ID="ltrPageSub"></asp:Literal></a> 
+                        <span class="divider"></span>
+                    </li>                    
                 </ul>
             </div>
         </div>

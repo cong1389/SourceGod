@@ -404,7 +404,7 @@ namespace Cb.Web.Admin.Pages.Slider
             //this.GetList(1, string.Empty, this.currentPageIndex, Constant.DSC.PageSize);
         }
 
-        protected void btn_Save_Click(object sender, ImageClickEventArgs e)
+        protected void btnSave_Click(object sender, EventArgs e)
         {
             saveOrder();
             string url = Utils.CombineUrl(template_path, LinkHelper.GetAdminLink("slider"));

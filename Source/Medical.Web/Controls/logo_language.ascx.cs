@@ -74,8 +74,6 @@ namespace Cb.Web.Controls
             template_path = WebUtils.GetWebPath();
             pageName = Utils.GetParameter("page", "home");
         }
-        #endregion
-
-       
+        #endregion       
     }
 }

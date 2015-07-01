@@ -165,16 +165,16 @@
                     <asp:LinkButton ID="lbnDelete" runat="server" Text="strDelete" Visible="false" OnClick="lbnDeleteImage_Click"><span class="glyphicon glyphicon-trash btn-sm">
                         </span></asp:LinkButton>
                 </td>
-                <td>
+                <td style="display: none;">
                     <strong>
                         <asp:Literal ID="Literal10" runat="server" Text="Website"></asp:Literal></strong>
                 </td>
-                <td>
+                <td style="display: none;">
                     <input type="text" name="txtPrice" id="txtWebsite" runat="server" style="width: 250px"
                         class="form-control" />
                 </td>
             </tr>
-            <tr>
+            <tr style="display: none;">
                 <td>
                     <strong>
                         <asp:Literal ID="lbPrice" runat="server" Text="strPrice"></asp:Literal>
@@ -196,7 +196,7 @@
                         runat="server" ValidationGroup="adminproductCategory" SetFocusOnError="true"></asp:RequiredFieldValidator>--%>
                 </td>
             </tr>
-            <tr>
+            <tr style="display: none;">
                 <td>
                     <strong>
                         <asp:Literal ID="Literal6" runat="server" Text="Phòng tắm"></asp:Literal>:</strong>
@@ -327,7 +327,7 @@
                         </td>
                         <td>
                             <div>
-                                <asp:TextBox runat="server" ID="txtMetaTitle" TextMode="MultiLine" Rows="5" Columns="23"
+                                <asp:TextBox runat="server" ID="txtMetaTitle" TextMode="MultiLine" Rows="5" Columns="21"
                                     placeholder="Meta Title" />
                                 <asp:TextBox runat="server" ID="txtMetaDescription" TextMode="MultiLine" Rows="5"
                                     Columns="60" placeholder="Meta Description" />
@@ -443,7 +443,7 @@
                         </td>
                         <td>
                             <div>
-                                <asp:TextBox runat="server" ID="txtMetaTitleEng" TextMode="MultiLine" Rows="5" Columns="23"
+                                <asp:TextBox runat="server" ID="txtMetaTitleEng" TextMode="MultiLine" Rows="5" Columns="21"
                                     placeholder="Meta Title" />
                                 <asp:TextBox runat="server" ID="txtMetaDescriptionEng" TextMode="MultiLine" Rows="5"
                                     Columns="60" placeholder="Meta Description" /></div>

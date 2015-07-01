@@ -6,19 +6,19 @@
 
 #wrapper1 div {border: 0px;margin: 0px;margin-left: auto;margin-right: auto;padding: 0px 5px 0px 5px;display: inline;}
 
-body {margin: 0px 0px 0px 0px;color : #333;background-color: #FFF;font-family: Arial, Helvetica, sans-serif;font-size: 12px;}
+body {margin: 0px 0px 0px 0px;color : #333;background-color: #FFF;font-family: 'SansOri,Arial,Helvetica,sans-serif' !important;}
 a {color: #C64934;text-decoration: none;}
 a:hover {color : #30569D;text-decoration : underline;}
 a:active {color : #333333;text-decoration : underline;}
 
-table#toolbar {margin: 3px 10px;}
+table#toolbar {margin: 3px 10px;float:right;}
 
-table#toolbar a.toolbar {color : #808080;text-decoration : none;display: block;border: 1px solid #DDD;width: 55px;padding: 2px 1px 2px 1px;}
+table#toolbar a.toolbar {color : #808080;text-decoration : none;display: block;border: 1px solid #DDD;width: 55px;padding: 2px 1px 2px 1px}
 table#toolbar a.toolbar:hover {color : #C64934;border: 1px solid #c24733;background-color: #f1e8e6;padding: 3px 0px 1px 2px;}
 table#toolbar a.toolbar:active {color : #FF9900;}
 
 .pagenav {font-size : 10px;}
-
+#main-nav{padding-left:10px;}
 a.pagenav {color : #808080;font-size : 10px;text-decoration : underline;}
 a.pagenav:hover {color : #FFF;font-size : 10px;}
 a.pagenav:active {color : #333;font-size : 10px;}
@@ -32,7 +32,7 @@ input, textarea, select {z-index : -3;font-size: 11px;}
 .error {color : #C40000;font-size : 11px;font-weight : bold;}
 .contentheading, .componentheading, .moduleheading {font-size: 14px;font-weight: bold;}
 table.menubar {width: 100%;}
-td {font-size: 11px;}
+td {font-size: 13px;}
 img.ui-datepicker-trigger{margin-left:5px;cursor:pointer;}
 /* header block */
 table.adminheading {background-color: #FFF;margin: 0px 0px 5px 0px;padding: 0px;border: 0px;width: 100%;border-collapse: collapse;color: #C64934;font-size : 18px;font-weight: bold;text-align: left;}
@@ -90,8 +90,8 @@ table.adminform {background-color: #f9f9f9;border: solid 1px #d5d5d5;width: 100%
 table.adminform tr.odd {background-color: #f9f9f9;}
 table.adminform tr.even {background-color: #eeeeee;}
 table.adminform th {font-size: 11px;padding-top: 6px;padding-bottom: 2px;padding-left: 4px;padding-right: 4px;text-align: left;height: 25px;background: url(images/background.jpg);color: #000;background-repeat: repeat;}
-table.adminform td:first-child{width:10%;}
-table.adminform td {padding: 3px;text-align: left;vertical-align:top;}
+table.adminform td:first-child{width:15%;}
+table.adminform td {padding: 3px;text-align: left;vertical-align:middle;}
 table.adminform td.editor {font-size: 9px;}
 
 table.cpanel td {text-align: center;}
@@ -103,7 +103,9 @@ form {margin: 0px 0px 0px 0px;}
 .tabpadding {/*border-bottom: solid 1px #D5D5D5;*/}
 .tabheading {background-color: #FFAE00;color: #FFF;font-size: 10px;text-align: left;}
 .pagetext {	visibility: hidden;	display: none;position: relative;top: 0;}
-.menubackgr {background: -webkit-gradient(linear, 30% 75%, 31% 33%, from(#4BD305), to(#893FD8));border-bottom: 1px solid #cccccc;color:#fff}
+.menubackgr {/*background: -webkit-gradient(linear, 30% 75%, 31% 33%, from(#4BD305), to(#893FD8))*/
+             background: radial-gradient(red 5%, yellow 25%, #4BD305 50%);
+             ;color:#fff}
 .menudottedline {border-bottom: 1px solid #cccccc;border-top: 1px solid #ffffff;background-color: #F1F3F5;}
 .pathway {margin-left: 15px;}
 .adminheader {color : #c30;font-size : 24px;}

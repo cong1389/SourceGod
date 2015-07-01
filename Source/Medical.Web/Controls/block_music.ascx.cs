@@ -129,54 +129,7 @@ namespace Cb.Web.Controls
                     ltrTitle.Text = lstProduct[0].ProductDesc.Title;
                 }
             }
-        }
-
-        //private void SetValue()
-        //{
-        //    lstProduct = pcBll.GetList(LangInt, pageName, "1", string.Empty, cid, string.Empty, string.Empty, string.Empty, currentPageIndex, DBConvert.ParseInt(ConfigurationManager.AppSettings["pageSizeBlogLeture"]), out  total);
-
-        //    string src, url = string.Empty;
-        //    if (total > 0)
-        //    {
-        //        StringBuilder sb = new StringBuilder();
-        //        sb.Append(" new jPlayerPlaylist({ ");
-        //        sb.AppendLine(" jPlayer: \"#jquery_jplayer_N\",");
-        //        sb.AppendLine(" cssSelectorAncestor: \"#jp_container_N\"");
-        //        sb.AppendLine("  },[ ");
-
-        //        //for (int i = 0; i < total; i++)
-        //        //{
-        //        string dirUpload = Utils.CombineUrl(template_path, ConfigurationManager.AppSettings["ProductUpload"]);
-        //        string pathMp3 = string.Format("{0}/{1}", dirUpload, lstProduct[0].Area);
-        //        string pathOgg = pathMp3.Replace("mp3", "ogg");
-        //        url = WebUtils.GetUrlImage(ConfigurationManager.AppSettings["ProductUpload"], lstProduct[0].Image);
-        //        sb.AppendLine("  {");
-        //        sb.AppendLine(" title: \"" + lstProduct[0].ProductDesc.Title + " \",");
-        //        sb.AppendLine(" artist: \" " + lstProduct[0].ProductDesc.Brief + "   \",");
-        //        sb.AppendLine(" mp3: \" " + pathMp3 + "  \",");
-        //        sb.AppendLine(" oga: \" " + pathOgg + "  \",");
-        //        sb.AppendLine(" poster: \" " + url + "  \"");
-        //        sb.AppendLine(" },");
-        //        //}
-
-        //        sb.AppendLine(" ],");
-        //        sb.AppendLine(" {");
-        //        sb.AppendLine(" playlistOptions: {");
-        //        sb.AppendLine(" enableRemoveControls: true");
-        //        sb.AppendLine(" },");
-        //        sb.AppendLine(" swfPath: \"js\",");
-        //        sb.AppendLine(" supplied: \"webmv, ogv, m4v, oga, mp3\",");
-        //        sb.AppendLine(" smoothPlayBar: true,");
-        //        sb.AppendLine(" keyEnabled: true,");
-        //        sb.AppendLine(" audioFullScreen: true ,");
-        //        sb.AppendLine("size: { height: \"0%\" }");
-        //        sb.AppendLine(" });");
-
-        //        script = sb.ToString();
-
-        //        ltrTitle.Text = lstProduct[0].ProductDesc.Title;
-        //    }
-        //}
+        }      
 
         #endregion
 

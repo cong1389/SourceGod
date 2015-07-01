@@ -132,23 +132,25 @@ namespace Cb.Web.Controls.CategoryManagement
             {
                 Medical_Product data = e.Item.DataItem as Medical_Product;
                 HtmlAnchor hypImg = e.Item.FindControl("hypImg") as HtmlAnchor;
+                HtmlAnchor hypTitle = e.Item.FindControl("hypTitle") as HtmlAnchor;
                 //hypImg.HRef = LinkHelper.GetLink(data.NameUrlDesc, LangId, data.ProductDesc.TitleUrl);
-                Literal ltrBrief = e.Item.FindControl("ltrBrief") as Literal;
-                hypImg.Title = ltrBrief.Text = data.ProductDesc.Title;
 
                 HtmlImage img = e.Item.FindControl("img") as HtmlImage;
                 img.Src = WebUtils.GetUrlImage(ConfigurationManager.AppSettings["ProductUpload"], data.Image);
+
+                Literal ltrTitle = e.Item.FindControl("ltrBrief") as Literal;
+                hypImg.Title = hypTitle.Title = img.Alt = img.Attributes["title"] = data.ProductDesc.Title;
 
                 LinkButton lbnHeader1 = e.Item.FindControl("lbnHeader1") as LinkButton;
                 lbnHeader1.CommandArgument = data.Area;
                 if (pageName == "sach-dich" || pageName == "bai-suy-gam")
                 {
                     string clientID = string.Format("{0}${1}", lbnHeader1.NamingContainer.UniqueID, lbnHeader1.ID);
-                    hypImg.HRef = "javascript:__doPostBack('" + clientID + "','');";
+                    hypImg.HRef = hypTitle.HRef = "javascript:__doPostBack('" + clientID + "','');";
                 }
                 else
                 {
-                    hypImg.HRef = LinkHelper.GetLink(data.NameUrlDesc, LangId, data.ProductDesc.TitleUrl);
+                    hypImg.HRef = hypTitle.HRef = LinkHelper.GetLink(data.NameUrlDesc, LangId, data.ProductDesc.TitleUrl);
                 }
             }
         }

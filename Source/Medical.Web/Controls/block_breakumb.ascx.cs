@@ -37,7 +37,7 @@ namespace Cb.Web.Controls
             {
                 lst = lst.Where(p => p.NewsCategoryDesc.NameUrl == pageName).ToList();
                 pageName = lst[0].NewsCategoryDesc.Name;
-                ltrPageHeader.Text = ltrPageSub.Text = pageName;
+                ltrPageHeader.Text = ltrPageSub.Text = hypPageSub.Title = pageName;
                 hypPageSub.HRef = LinkHelper.GetLink(lst[0].NewsCategoryDesc.NameUrl, LangId);
             }
         }

@@ -22,7 +22,8 @@ namespace Web.Admin.Pages.User
 {
     public partial class admin_edituser : System.Web.UI.UserControl
     {
-        #region Fields
+        #region Parameter
+
         protected string template_path;
         protected string l_btn_save;
         protected string l_btn_apply;
@@ -44,29 +45,11 @@ namespace Web.Admin.Pages.User
         protected string msg_confirm_delete_item;
 
         protected int id = int.MinValue;
+
         #endregion
 
-        protected void Page_Load(object sender, EventArgs e)
-        {
-            btn_Delete.Attributes["onclick"] = string.Format("javascript:return confirm('{0}');", Constant.UI.admin_msg_confirm_delete_item);
-
-            //check role
-            Medical_User user = (Medical_User)Session[Global.SESS_USER];
-            if (user != null && user.Role != DBConvert.ParseByte(Constant.Security.AdminRoleValue))
-            {
-                Response.Redirect(LinkHelper.GetAdminLink("home"));
-            }
-            //end
-            GetId();
-            InitPage();
-            if (!IsPostBack)
-            {
-                LocalizationUtility.SetValueControl(this);
-                ShowUser();
-            }
-        }
-
         #region Common
+
         private void LoadDataDropdownlist(DropDownList _drp)
         {
             int total;
@@ -84,6 +67,7 @@ namespace Web.Admin.Pages.User
                 }
             }
         }
+
         /// <summary>
         /// InitPage
         /// </summary>
@@ -112,17 +96,18 @@ namespace Web.Admin.Pages.User
             //this.ltrNotePassword.Text = Constant.UI.admin_user_note_psaaword;
             //alert
             this.msg_confirm_delete_item = Constant.UI.admin_msg_confirm_delete_item;
-            this.reqv_txtUsername.ErrorMessage = Constant.UI.alert_empty_username;
-            this.reqv_txtPassword.ErrorMessage = Constant.UI.alert_empty_password;
-            this.reqvc_txtConfirmpassword.ErrorMessage = Constant.UI.alert_empty_password2;
-            this.comv_Password.ErrorMessage = Constant.UI.alert_invalid_password2;
-            this.cusv_txtUsername.ErrorMessage = Constant.UI.alert_empty_username;
-            this.reqvc_txtEmail.ErrorMessage = Constant.UI.alert_empty_email;
-            this.regv_Email.ErrorMessage = Constant.UI.alert_invalid_email;
+            this.reqv_txtUsername.Text = Constant.UI.alert_empty_username;
+            this.reqv_txtPassword.Text = Constant.UI.alert_empty_password;
+            this.reqvc_txtConfirmpassword.Text = Constant.UI.alert_empty_password2;
+            this.comv_Password.Text = Constant.UI.alert_invalid_password2;
+            this.cusv_txtUsername.Text = Constant.UI.alert_empty_username;
+            this.reqvc_txtEmail.Text = Constant.UI.alert_empty_email;
+            this.regv_Email.Text = Constant.UI.alert_invalid_email;
             this.btn_Delete.OnClientClick = "javascript:return confirmDelete('" + msg_confirm_delete_item + "');";
-            this.reqvc_txtFullName.ErrorMessage = Constant.UI.alert_empty_name_outsite;
-            regv_txtPhone.ErrorMessage = Constant.UI.alert_invalid_phone;
-            regv_txtMobile.ErrorMessage = Constant.UI.alert_invalid_mobile;
+            this.reqvc_txtFullName.Text = Constant.UI.alert_empty_name_outsite;
+            regv_txtPhone.Text = Constant.UI.alert_invalid_phone;
+            regv_txtMobile.Text = Constant.UI.alert_invalid_mobile;
+
             //load data drop down list
             LoadDataDropdownlist(drpCity);
             UserBLL.BindRoleName(drpPermission);
@@ -131,13 +116,13 @@ namespace Web.Admin.Pages.User
             regv_txtPhone.ValidationExpression = Constant.RegularExpressionString.validatePhone;
             regv_txtMobile.ValidationExpression = Constant.RegularExpressionString.validatePhone;
             regv_Email.ValidationExpression = Constant.RegularExpressionString.validateEmail;
+
             //Event server validate
             cusv_txtUsername.ServerValidate += new ServerValidateEventHandler(cusv_txtUsername_ServerValidate);
-            this.cus_checkPassWord.ErrorMessage = Constant.UI.msg_account_password_short;
-
+            this.cus_checkPassWord.Text = Constant.UI.msg_account_password_short;            
 
             //Image
-            btn_Save.ImageUrl = string.Format("{0}/{1}",template_path, "images/save_f2.png");
+            btn_Save.ImageUrl = string.Format("{0}/{1}", template_path, "images/save_f2.png");
             btn_Apply.ImageUrl = string.Format("{0}/{1}", template_path, "images/apply_f2.png");
             btn_Delete.ImageUrl = string.Format("{0}/{1}", template_path, "images/delete_f2.png");
             btn_Cancel.ImageUrl = string.Format("{0}/{1}", template_path, "images/cancel_f2.png");
@@ -146,12 +131,10 @@ namespace Web.Admin.Pages.User
         private void GetId()
         {
             //get ID param 
-            string strID = Utils.GetParameter("id", string.Empty);
+            string strID = Utils.GetParameter("cid", string.Empty);
             this.id = strID == string.Empty ? int.MinValue : DBConvert.ParseInt(strID);
         }
-        #endregion
 
-        #region Methods
         /// <summary>
         /// get data for insert update
         /// </summary>
@@ -184,6 +167,7 @@ namespace Web.Admin.Pages.User
             userObj.IsNewsletter = cbxNewsPromo.Checked ? "1" : "0";
             return userObj;
         }
+
         /// <summary>
         /// Save user
         /// </summary>
@@ -213,6 +197,7 @@ namespace Web.Admin.Pages.User
                 sdUser.Update(userObj, userObj, fields);
             }
         }
+
         /// <summary>
         /// Show user
         /// </summary>
@@ -250,6 +235,7 @@ namespace Web.Admin.Pages.User
                 this.cusv_txtUsername.Visible = true;
             }
         }
+
         /// <summary>
         /// Apply user
         /// </summary>
@@ -257,11 +243,12 @@ namespace Web.Admin.Pages.User
         {
             SaveUser(this.id);
         }
+
         /// <summary>
         /// delete user
         /// </summary>
         /// <param name="cid"></param>
-        private void deleteUsers(string cid)
+        private void DeleteUser(string cid)
         {
             if (cid != null)
             {
@@ -275,6 +262,7 @@ namespace Web.Admin.Pages.User
                 Response.Redirect(url);
             }
         }
+
         /// <summary>
         /// Cancel user
         /// </summary>
@@ -284,8 +272,30 @@ namespace Web.Admin.Pages.User
 
         }
 
+        #endregion
 
         #region Event
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            btn_Delete.Attributes["onclick"] = string.Format("javascript:return confirm('{0}');", Constant.UI.admin_msg_confirm_delete_item);
+
+            //check role
+            Medical_User user = (Medical_User)Session[Global.SESS_USER];
+            if (user != null && user.Role != DBConvert.ParseByte(Constant.Security.AdminRoleValue))
+            {
+                Response.Redirect(LinkHelper.GetAdminLink("home"));
+            }
+            //end
+            GetId();
+            InitPage();
+            if (!IsPostBack)
+            {
+                LocalizationUtility.SetValueControl(this);
+                ShowUser();
+            }
+        }
+
         protected void btn_Save_Click(object sender, ImageClickEventArgs e)
         {
             if (Page.IsValid)
@@ -294,6 +304,7 @@ namespace Web.Admin.Pages.User
                 Response.Redirect(LinkHelper.GetAdminMsgLink("user", "save"));
             }
         }
+
         protected void btn_Apply_Click(object sender, ImageClickEventArgs e)
         {
             if (Page.IsValid)
@@ -302,10 +313,12 @@ namespace Web.Admin.Pages.User
                 Response.Redirect(LinkHelper.GetAdminLink("edit_user", this.id));
             }
         }
+
         protected void btn_Delete_Click(object sender, ImageClickEventArgs e)
         {
-            deleteUsers(DBConvert.ParseString(this.id));
+            DeleteUser(DBConvert.ParseString(this.id));
         }
+
         protected void btn_Cancel_Click(object sender, ImageClickEventArgs e)
         {
             CancelUser();
@@ -313,13 +326,12 @@ namespace Web.Admin.Pages.User
 
         void cusv_txtUsername_ServerValidate(object source, ServerValidateEventArgs args)
         {
-            //if (!UserBLL.CheckValidUsername(txtUsername.Value))
-            //{
-            //    args.IsValid = false;
-            //    ((CustomValidator)source).Text = Constant.UI.alert_invalid_username;
-            //}
+            if (!UserBLL.CheckValidUsername(txtUsername.Value))
+            {
+                args.IsValid = false;
+                ((CustomValidator)source).Text = Constant.UI.alert_invalid_username;
+            }
         }
-        #endregion
 
         #endregion
     }

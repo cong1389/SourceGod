@@ -7,180 +7,153 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Cb.Web.Admin.Pages.ManagementID {
+namespace Cb.Web {
     
     
-    public partial class admin_editmanagementid {
+    public partial class loginadmin {
         
         /// <summary>
-        /// btn_Save control.
+        /// Head1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ImageButton btn_Save;
+        protected global::System.Web.UI.HtmlControls.HtmlHead Head1;
         
         /// <summary>
-        /// ltrAdminSave control.
+        /// frmLogin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal ltrAdminSave;
+        protected global::System.Web.UI.HtmlControls.HtmlForm frmLogin;
         
         /// <summary>
-        /// btn_Apply control.
+        /// txtUserName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ImageButton btn_Apply;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText txtUserName;
         
         /// <summary>
-        /// ltrAdminApply control.
+        /// reqTxtUserName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal ltrAdminApply;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator reqTxtUserName;
         
         /// <summary>
-        /// btn_Delete control.
+        /// txtPassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ImageButton btn_Delete;
+        protected global::System.Web.UI.HtmlControls.HtmlInputPassword txtPassword;
         
         /// <summary>
-        /// ltrAdminDelete control.
+        /// reqTxtPassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal ltrAdminDelete;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator reqTxtPassword;
         
         /// <summary>
-        /// btn_Cancel control.
+        /// ltrForgotPass control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ImageButton btn_Cancel;
+        protected global::System.Web.UI.WebControls.Literal ltrForgotPass;
         
         /// <summary>
-        /// ltrAdminCancel control.
+        /// drpRole control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal ltrAdminCancel;
+        protected global::System.Web.UI.WebControls.DropDownList drpRole;
         
         /// <summary>
-        /// sumv_SumaryValidate control.
+        /// rem control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ValidationSummary sumv_SumaryValidate;
+        protected global::System.Web.UI.HtmlControls.HtmlInputCheckBox rem;
         
         /// <summary>
-        /// ltrAminHeaderName control.
+        /// hidOnChangePass control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal ltrAminHeaderName;
+        protected global::System.Web.UI.HtmlControls.HtmlInputHidden hidOnChangePass;
         
         /// <summary>
-        /// Literal2 control.
+        /// ltrRememberPass control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal Literal2;
+        protected global::System.Web.UI.WebControls.Literal ltrRememberPass;
         
         /// <summary>
-        /// ltrAminPublish control.
+        /// trSecurityCode control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal ltrAminPublish;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl trSecurityCode;
         
         /// <summary>
-        /// chkPublished control.
+        /// txt_Security_Code control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputCheckBox chkPublished;
+        protected global::System.Web.UI.WebControls.TextBox txt_Security_Code;
         
         /// <summary>
-        /// ltrAminName control.
+        /// img_Security_Code control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal ltrAminName;
+        protected global::System.Web.UI.WebControls.Image img_Security_Code;
         
         /// <summary>
-        /// txtName control.
+        /// cus_Same_Security_Code control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText txtName;
+        protected global::System.Web.UI.WebControls.CustomValidator cus_Same_Security_Code;
         
         /// <summary>
-        /// reqv_txtNameVi control.
+        /// btn_login control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator reqv_txtNameVi;
-        
-        /// <summary>
-        /// Literal1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal Literal1;
-        
-        /// <summary>
-        /// txtValue control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText txtValue;
-        
-        /// <summary>
-        /// reqv_txtValueVi control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator reqv_txtValueVi;
+        protected global::System.Web.UI.WebControls.Button btn_login;
     }
 }

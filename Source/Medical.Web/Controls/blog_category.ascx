@@ -3,7 +3,6 @@
 <!--blog_category-->
 <%@ Register Namespace="Cb.WebControls" Assembly="Cb.WebControls" TagPrefix="cc" %>
 <ul class="gallery col-4">
-    <!--Item 1-->
     <asp:Repeater runat="server" ID="rptResult" OnItemDataBound="rptResult_ItemDataBound">
         <ItemTemplate>
             <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -13,13 +12,15 @@
                         <img runat="server" id="img" class="img-responsive img-thumbnail">
                         <div class="overlay">
                         </div>
+                    </a>
                 </div>
                 <div class="desc">
-                    <h5>
+                    <a runat="server" id="hypTitle">
                         <h5>
-                            <asp:Literal runat="server" ID="ltrBrief"></asp:Literal></h5>
+                            <asp:Literal runat="server" ID="ltrTitle"></asp:Literal></h5>
+                    </a>
                 </div>
-                </a></li>
+            </li>
         </ItemTemplate>
     </asp:Repeater>
 </ul>

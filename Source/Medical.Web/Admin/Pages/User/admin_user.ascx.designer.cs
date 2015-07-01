@@ -40,13 +40,13 @@ namespace Cb.Web.Admin.Pages.User {
         protected global::System.Web.UI.WebControls.Literal ltrAdminAddNew;
         
         /// <summary>
-        /// ltrAdminSave control.
+        /// btnSave control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal ltrAdminSave;
+        protected global::System.Web.UI.HtmlControls.HtmlButton btnSave;
         
         /// <summary>
         /// tdEdit control.

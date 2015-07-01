@@ -14,7 +14,8 @@ namespace Cb.Web.Admin.Pages.User
 {
     public partial class admin_user : System.Web.UI.UserControl
     {
-        #region Fields
+        #region Prameter
+
         protected string template_path
         {
             get
@@ -61,7 +62,6 @@ namespace Cb.Web.Admin.Pages.User
                 ViewState["genericBLLget"] = value;
             }
         }
-
         #region Viewstate
         protected int currentPageIndex
         {
@@ -81,19 +81,8 @@ namespace Cb.Web.Admin.Pages.User
 
         #endregion
 
-        #region Page_Load
-        protected void Page_Load(object sender, EventArgs e)
-        {
-            GetAction();
-            if (!IsPostBack)
-            {
-                InitializeComponent();
-                Search();
-            }
-        }
-        #endregion
-
         #region Common
+
         /// <summary>
         /// Init page
         /// </summary>
@@ -105,8 +94,9 @@ namespace Cb.Web.Admin.Pages.User
             msg_confirm_delete_item = LocalizationUtility.GetText("mesConfirmDelete");
             msg_no_selected_item = LocalizationUtility.GetText("mesSelectItem");
             LocalizationUtility.SetValueControl(this);
-            getMessage();
+            GetMessage();
         }
+
         /// <summary>
         /// GetList
         /// </summary>
@@ -124,6 +114,7 @@ namespace Cb.Web.Admin.Pages.User
             this.rptResult.DataBind();
             return total;
         }
+
         /// <summary>
         /// action
         /// </summary>
@@ -134,19 +125,19 @@ namespace Cb.Web.Admin.Pages.User
             switch (action)
             {
                 case "new":
-                    add();
+                    Add();
                     break;
                 case "edit":
-                    edit(cid);
+                    Edit(cid);
                     break;
                 case "publish":
-                    change(cid, "1");
+                    Change(cid, "1");
                     break;
                 case "unpublish":
-                    change(cid, "0");
+                    Change(cid, "0");
                     break;
                 case "delete":
-                    delete(cid);
+                    Delete(cid);
                     break;
                 case "search":
                     pager.CurrentIndex = 1;
@@ -158,12 +149,14 @@ namespace Cb.Web.Admin.Pages.User
                 //    break;
             }
         }
-        private void add()
+
+        private void Add()
         {
             string url = LinkHelper.GetAdminLink("edit_user");
             Response.Redirect(url);
         }
-        private void edit(string cid)
+
+        private void Edit(string cid)
         {
             if (cid == null) return;
             string link, url;
@@ -178,12 +171,13 @@ namespace Cb.Web.Admin.Pages.User
                 link = LinkHelper.GetAdminLink("edit_user", cid);
             Response.Redirect(link);
         }
+
         /// <summary>
-        /// change
+        /// Change
         /// </summary>
         /// <param name="cid"></param>
         /// <param name="state"></param>
-        private void change(string cid, string state)
+        private void Change(string cid, string state)
         {
             if (cid != null)
             {
@@ -191,31 +185,28 @@ namespace Cb.Web.Admin.Pages.User
                 Search();
             }
         }
+
         /// <summary>
-        /// delete
+        /// Delete
         /// </summary>
-        private void delete(string cid)
+        private void Delete(string cid)
         {
             if (cid != null)
             {
-
                 string link, url;
-
                 if (genericBLL.Delete(cid))
-                    link = LinkHelper.GetAdminMsgLink("user", "delete");
+                    link = LinkHelper.GetAdminMsgLink("user", "Delete");
                 else
                     link = LinkHelper.GetAdminMsgLink("user", "delfail");
                 url = Utils.CombineUrl(template_path, link);
                 Response.Redirect(url);
-
             }
         }
-
 
         /// <summary>
         /// get msg
         /// </summary>
-        private void getMessage()
+        private void GetMessage()
         {
             string msg = Utils.GetParameter("msg", string.Empty);
             if (msg == string.Empty) return;
@@ -223,12 +214,11 @@ namespace Cb.Web.Admin.Pages.User
             {
                 this.show_msg = string.Format("<div id=\"dgc-msg\"><div class=\"message\">{0}</div></div>", Constant.UI.admin_msg_save_success);
             }
-            else if (msg == "delete")
+            else if (msg == "Delete")
             {
                 this.show_msg = string.Format("<div id=\"dgc-msg\"><div class=\"message\">{0}</div></div>", Constant.UI.admin_msg_delete_success);
             }
         }
-
 
         private void Search()
         {
@@ -239,7 +229,21 @@ namespace Cb.Web.Admin.Pages.User
             GetList(1, strSearch, this.currentPageIndex, 50);
         }
 
-        protected void btn_Save_Click(object sender, ImageClickEventArgs e)
+        #endregion
+
+        #region Event
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            GetAction();
+            if (!IsPostBack)
+            {
+                InitializeComponent();
+                Search();
+            }
+        }
+
+        protected void btnSave_Click(object sender, EventArgs e)
         {
             string url = Utils.CombineUrl(template_path, LinkHelper.GetAdminLink("user"));
             Response.Redirect(url);
@@ -250,12 +254,6 @@ namespace Cb.Web.Admin.Pages.User
             Search();
             //rptResult.DataBind();
         }
-
-
-        #endregion
-
-        #region Web Form Designer generated code
-
         /// <summary>
         /// init component
         /// </summary>
@@ -326,11 +324,14 @@ namespace Cb.Web.Admin.Pages.User
                     td.Attributes.Add("onclick", string.Format("listItemTask('cb{0}', 'edit')", e.Item.ItemIndex));
                     td = (HtmlTableCell)e.Item.FindControl("trUpdateDate");
                     td.Attributes.Add("onclick", string.Format("listItemTask('cb{0}', 'edit')", e.Item.ItemIndex));
+
                     ImageButton imgctr = (ImageButton)e.Item.FindControl("btnPublish");
                     imgctr.ImageUrl = string.Format("/Admin/images/{0}", img);
                     imgctr.Attributes.Add("alt", alt);
+
                     HtmlTableCell btn = (HtmlTableCell)e.Item.FindControl("tdbtn");
                     btn.Attributes.Add("onclick", string.Format(" return listItemTask('cb{0}', '{1}')", data.Id, publishedTask));
+
                     //Fullname
                     ltr = (Literal)e.Item.FindControl("ltrFullName");
                     ltr.Text = data.FullName;
@@ -364,7 +365,6 @@ namespace Cb.Web.Admin.Pages.User
             pager.CurrentIndex = this.currentPageIndex;
             this.GetList(1, string.Empty, this.currentPageIndex, 50);
         }
-
 
         #endregion
     }

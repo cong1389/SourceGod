@@ -99,7 +99,7 @@ namespace Cb.Web.Controls
                 hddParentNameUrl.Value = hypName.HRef = LinkHelper.GetLink(data.NewsCategoryDesc.NameUrl, LangId);
 
                 Literal ltrName = e.Item.FindControl("ltrName") as Literal;
-                hypName.Title = ltrName.Text = data.NewsCategoryDesc.Name;
+                hypName.Title = hypName.Title = ltrName.Text = data.NewsCategoryDesc.Name;
 
                 //Set menu Icon Home 
                 if (data.NewsCategoryDesc.Id == DBConvert.ParseInt(ConfigurationManager.AppSettings["parentIdHome"]))
@@ -119,7 +119,7 @@ namespace Cb.Web.Controls
 
                         //Set Icon menu tho phuong
                         Literal ltrIconSub = e.Item.FindControl("ltrIconSub") as Literal;
-                        ltrIconSub.Text = "<span class=\"glyphicon glyphicon-menu-down\"></span>";
+                        ltrIconSub.Text = "<i class=\"fa fa-angle-down\"></i>";
 
                         Repeater rptResultSub2 = e.Item.FindControl("rptResultSub2") as Repeater;
                         rptResultSub2.DataSource = lst;
@@ -136,12 +136,13 @@ namespace Cb.Web.Controls
                 Repeater dataa = (Repeater)e.Item.Parent;
 
                 Medical_ProductCategory data = e.Item.DataItem as Medical_ProductCategory;
+
                 HtmlAnchor hypNameSub2 = e.Item.FindControl("hypNameSub2") as HtmlAnchor;
                 hypNameSub2.HRef = LinkHelper.GetLink(data.NewsCategoryDesc.NameUrl, LangId);
                 //hypNameSub2.HRef = LinkHelper.GetLink(hddParentNameUrl.Value, LangId, data.NewsCategoryDesc.NameUrl);
-                Literal ltrNameSub2 = e.Item.FindControl("ltrNameSub2") as Literal;
-                hypNameSub2.Title = ltrNameSub2.Text = data.NewsCategoryDesc.Name;
 
+                Literal ltrNameSub2 = e.Item.FindControl("ltrNameSub2") as Literal;
+                hypNameSub2.Title = hypNameSub2.Title = ltrNameSub2.Text = data.NewsCategoryDesc.Name;
             }
         }
 
